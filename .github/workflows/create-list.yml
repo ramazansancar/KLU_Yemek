@@ -29,10 +29,9 @@ jobs:
     - name: node index.js
       run: cd listgen && node index.js
     - name: deploy
-      run: cd listgen && chmod +x deploy.sh && export token=${{ secrets.token }} && ./deploy.sh
+      run: cd listgen && chmod +x deploy.sh && export token=${{ secrets.TOKEN }} && ./deploy.sh
       env:
         CI: true
-        ACCESS_TOKEN: ${{ secrets.token }}
+        ACCESS_TOKEN: ${{ secrets.TOKEN }}
         BASE_BRANCH: master
         BRANCH: master
-       
