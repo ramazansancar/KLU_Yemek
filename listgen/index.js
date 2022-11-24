@@ -45,8 +45,8 @@ var website = "";
             console.log(getDay[counter]);
             out.push({
                 day: getDay[counter].title,
-                date: getDay[counter].start.replace("00:00:00", ""),
-                content: getDay[counter].aciklama
+                date: getDay[counter].start.replace("00:00:00", "").trim(),
+                content: getDay[counter].aciklama.trim()
             });
             counter++;
         } while (
