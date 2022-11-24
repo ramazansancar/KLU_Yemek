@@ -37,7 +37,6 @@ fetchData = async () => {
             if(status == 200){
                 website = data;
                 var jsonIn = $(website).find("textarea")[0].innerHTML;
-
                 var getDay = $.parseJSON(jsonIn);
                 var currentMonth = getDay[0].start.replace(" 00:00:00 ", "").split('-')[1];
                 var counter = 0;
@@ -56,9 +55,30 @@ fetchData = async () => {
                     getDay[counter].start.includes(currentMonth)
                 );
 
+                var out_all = [];
+                var counter_all = 0;
+                getDay.forEach(item => {
+                    out_all.push({
+                        day: getDay[counter_all].title,
+                        date: getDay[counter_all].start.replace("00:00:00", "").trim(),
+                        content: getDay[counter_all].aciklama.trim()
+                    });
+                    //console.log(out[counter_all])
+                    counter_all++;
+                });
+
                 fs.writeFile("list.json", JSON.stringify(out, null, 2), function(error) {
                     (error ? console.log(error) : console.log("*** \nlist.json was written.\n***"));
                 });
+
+                fs.writeFile("list_all.json", JSON.stringify(out_all, null, 2), function(error) {
+                    (error ? console.log(error) : console.log("*** \nlist_all.json was written.\n***"));
+                });
+
+                fs.writeFile("list_raw.json", JSON.stringify(getDay, null, 2), function(error) {
+                    (error ? console.log(error) : console.log("*** \nlist_raw.json was written.\n***"));
+                });
+
             }else{
                 console.log(status)
                 console.log(data)

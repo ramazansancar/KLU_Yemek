@@ -6,6 +6,8 @@ on:
       - master
     paths: 
       - '!list.json'
+      - '!list_all.json'
+      - '!list_raw.json'
     #schedule: 
     #  - cron: '0 */1 * * *'
 
