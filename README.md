@@ -22,5 +22,6 @@ Uygulamanın çalışma mantığı JSON'u ayrıştırıp listelemektir. Kullanı
 [Google Play](https://play.google.com/store/apps/details?id=io.github.berkantkz.klu)
 
 ----------
+# Authors
 
-[_berkantkz_](https://berkantkz.me)
+[_berkantkz_](https://berkantkz.me) [_ramazansancar_](https://www.ramazansancar.com.tr) 

@@ -29,13 +29,13 @@ jobs:
         node-version: ${{ matrix.node-version }}
     
     - name: npm i
-      run: cd listgen && npm i
+      run: npm i
     
     - name: node index.js
-      run: cd listgen && node index.js
+      run: node index.js
     
     - name: Deploy
-      run: cd listgen && chmod +x deploy.sh && export token=${{ secrets.TOKEN }} username=${{secrets.USERNAME}} mail=${{secrets.MAIL}} name=${{secrets.NAME}} && ./deploy.sh
+      run: chmod +x deploy.sh && export token=${{ secrets.TOKEN }} username=${{secrets.USERNAME}} mail=${{secrets.MAIL}} name=${{secrets.NAME}} && ./deploy.sh
       env:
         CI: true
         ACCESS_TOKEN: ${{ secrets.TOKEN }}
