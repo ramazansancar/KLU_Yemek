@@ -1,6 +1,6 @@
-git config --global user.email 'berkantk3@gmail.com'
-git config --global user.name 'Berkant Korkmaz'
-git remote set-url origin https://berkantkz:$token@github.com/berkantkz/KLU_Yemek.git
+git config --global user.email $mail
+git config --global user.name $name
+git remote set-url origin https://$username:$token@github.com/berkantkz/KLU_Yemek.git
 if git status --porcelain | grep -q 'list.json'; then 
 	git add list.json
 	git commit -am 'update list'
