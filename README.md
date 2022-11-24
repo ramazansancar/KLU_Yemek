@@ -4,7 +4,7 @@
 
 Güncel liste oluşturma durumu:  ![https://github.com/ramazansancar/KLU_Yemek/blob/master/.github/workflows/create-list.yml](https://github.com/ramazansancar/KLU_Yemek/workflows/Scheduled%20Trigger/badge.svg)
 
-Uygulamanın çalışma mantığı JSON'u ayrıştırıp listelemektir. Kullanılan JSON listesi [bu adreste](https://berkantkz.me/KLU_Yemek/list.json) bulunabilir.
+Uygulamanın çalışma mantığı JSON'u ayrıştırıp listelemektir. Kullanılan JSON listesi [bu adreste](https://raw.githubusercontent.com/ramazansancar/KLU_Yemek/master/list.json) bulunabilir.
 
 ##### *Kırklareli Üniversitesi Resmi Yemek Takvimi Web Sayfası:* [http://sks.klu.edu.tr/Takvimler/73-yemek-takvimi.klu](http://sks.klu.edu.tr/Takvimler/73-yemek-takvimi.klu)
 
