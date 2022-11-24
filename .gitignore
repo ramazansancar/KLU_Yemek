@@ -27,3 +27,4 @@ Gemfile.lock
 node_modules
 keystore.properties
 berkantkz-apk-key.jks
+package-lock.json
