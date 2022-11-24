@@ -5,6 +5,9 @@ on:
     paths: 
       - '!list.json'
 
+  # This command allows us to run the Action automatically from the Actions tab.
+  workflow_dispatch:
+
 jobs:
   build:
 
@@ -25,7 +28,7 @@ jobs:
     - name: node index.js
       run: cd listgen && node index.js
     - name: deploy
-      run: cd listgen && chmod +x deploy.sh && export token=${{ secrets.TOKEN }} && ./deploy.sh
+      run: cd listgen && chmod +x deploy.sh && export token=${{ secrets.TOKEN }} && export username=${{secrets.USERNAME}} && export mail=${{secrets.MAIL}} && export name=${{secrets.NAME}} && ./deploy.sh
       env:
         CI: true
         ACCESS_TOKEN: ${{ secrets.TOKEN }}
