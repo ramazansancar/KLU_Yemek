@@ -2,7 +2,7 @@
 
 İçinde bulunduğumuz aya ait program listelenir.
 
-Güncel liste oluşturma durumu:  ![https://github.com/berkantkz/KLU_Yemek/blob/master/.github/workflows/create-list.yml](https://github.com/berkantkz/KLU_Yemek/workflows/Scheduled%20Trigger/badge.svg)
+Güncel liste oluşturma durumu:  ![https://github.com/ramazansancar/KLU_Yemek/blob/master/.github/workflows/create-list.yml](https://github.com/ramazansancar/KLU_Yemek/workflows/Scheduled%20Trigger/badge.svg)
 
 Uygulamanın çalışma mantığı JSON'u ayrıştırıp listelemektir. Kullanılan JSON listesi [bu adreste](https://berkantkz.me/KLU_Yemek/list.json) bulunabilir.
 
