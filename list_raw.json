@@ -1,5 +1,21 @@
 [
   {
+    "id": "2823",
+    "title": "CUMA",
+    "aciklama": "SEBZE ÇORBA,\nÇITIR TAVUK,\nBULGUR PİLAVI,\nYOĞURT\n\n\n\n",
+    "start": "2022-12-02 00:00:00",
+    "end": "2022-12-02 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "2822",
+    "title": "PERŞEMBE",
+    "aciklama": "ŞEHRİYE ÇORBA,\nKURU KÖFTE-ELMA DİLİM PATATES,\nPİRİNÇ PİLAVI,\nAYVA KOMPOSTO\n\n\n\n",
+    "start": "2022-12-01 00:00:00",
+    "end": "2022-12-01 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "2818",
     "title": "ÇARŞAMBA",
     "aciklama": "TARHANA ÇORBA,\nTAVUK DÖNER-SALATA,\nERİŞTE,\nAYRAN\n\n\n\n",
