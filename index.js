@@ -38,11 +38,24 @@ fetchData = async () => {
                 website = data;
                 var jsonIn = $(website).find("textarea")[0].innerHTML;
                 var getDay = $.parseJSON(jsonIn);
-                var currentMonth = getDay[0].start.replace(" 00:00:00 ", "").split('-')[1];
-                var counter = 0;
+                //var currentMonth = getDay[0].start.replace(" 00:00:00 ", "").split('-')[1];
+                let dates = new Date();
+                var currentDate = dates.getFullYear()+'-'+String([dates.getMonth() + 1]).padStart(2, '0');
                 var out = [];
 
-                do {
+                getDay.forEach( (item,index,array) => {
+                    if(getDay[index].start.includes(currentDate)){
+                        out.push({
+                            day: item.title,
+                            date: item.start.replace("00:00:00", "").trim(),
+                            content: item.aciklama.trim()
+                        });
+                        
+                    }
+                })
+                console.log(out)
+                
+                /*do {
                     //console.log(getDay[counter]);
                     out.push({
                         day: getDay[counter].title,
@@ -53,7 +66,7 @@ fetchData = async () => {
                     counter++;
                 }while(
                     getDay[counter].start.includes(currentMonth)
-                );
+                );*/
 
                 var out_all = [];
                 var counter_all = 0;
