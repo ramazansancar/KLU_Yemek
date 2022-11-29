@@ -3,6 +3,7 @@
  *	dosyasını otomatik olarak güncellemeye yarar.
  *	Node.js ile çalışır (node index.js).
  *			Berkant Korkmaz - berkantkz
+ *          Ramazan Sancar - ramazansancar
  */
 
  var jsdom = require("jsdom");
