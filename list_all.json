@@ -1,6 +1,81 @@
 [
   {
     "day": "CUMA",
+    "date": "2022-12-30",
+    "content": "TARHANA ÇORBA,\nFIRIN TAVUK-ELMA DİLİM PATATES,\nBULGUR PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2022-12-29",
+    "content": "TAVUK SUYU ÇORBA,\nKIYMALI PIRASA,\nERİŞTE\nKADAYIF TATLISI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2022-12-28",
+    "content": "MERCİMEK ÇORBA,\nKADINBUDU KÖFTE-ELMA DİLİM PATATES,\nYOĞURTLU KARNABAHAR KIZARTMA,\nTULUMBA TATLISI"
+  },
+  {
+    "day": "SALI",
+    "date": "2022-12-27",
+    "content": "EZOGELİN ÇORBA,\nTAVUK DÖNER-SALATA,\nMAKARNA,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2022-12-26",
+    "content": "SEBZE ÇORBA,\nETLİ NOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKEŞKÜL"
+  },
+  {
+    "day": "CUMA",
+    "date": "2022-12-23",
+    "content": "YOĞURT ÇORBA,\nORMAN KEBABI,\nBULGUR PİLAVI,\nMANDALİNA"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2022-12-22",
+    "content": "EZOGELİN ÇORBA,\nKIYMALI ISPANAK,\nFIRIN MAKARNA,\nŞEKERPARE"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2022-12-21",
+    "content": "TARHANA ÇORBA,\nKURU KÖFTE-ELMA DİLİM PATATES,\nERİŞTE,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2022-12-20",
+    "content": "MERCİMEK ÇORBA,\nGORDON BLUE-SALATA,\nKUSKUS,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2022-12-19",
+    "content": "TAVUK SUYU ÇORBA,\nETLİ KURU FASULYE,\nPİRİNÇ PİLAVI,\nTURŞU"
+  },
+  {
+    "day": "CUMA",
+    "date": "2022-12-16",
+    "content": "EZOGELİN ÇORBA,\nETLİ KIŞ TÜRLÜ,\nBULGUR PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2022-12-15",
+    "content": "TAVUK SUYU ÇORBA,\nKIYMALI KARNABAHAR GRATEN,\nİÇ PİLAV,\nREVANİ"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2022-12-14",
+    "content": "MERCİMEK ÇORBA,\nİZMİR KÖFTE,\nMAKARNA,\nPORTAKAL"
+  },
+  {
+    "day": "SALI",
+    "date": "2022-12-13",
+    "content": "DOMATES ÇORBA,\nŞİNİTZEL-SALATA,\nŞEHRİYE PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2022-12-12",
+    "content": "DÜĞÜN ÇORBA,\nKIYMALI YEŞİL MERCİMEK,\nPİRİNÇ PİLAVI,\nKAZANDİBİ"
+  },
+  {
+    "day": "CUMA",
     "date": "2022-12-09",
     "content": "TARHANA ÇORBA,\nTAS KEBABI,\nBÖREK,\nKEMALPAŞA TATLISI"
   },
