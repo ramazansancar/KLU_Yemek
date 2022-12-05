@@ -1,5 +1,37 @@
 [
   {
+    "id": "2828",
+    "title": "CUMA",
+    "aciklama": "TARHANA ÇORBA,\nTAS KEBABI,\nBÖREK,\nKEMALPAŞA TATLISI\n\n\n\n",
+    "start": "2022-12-09 00:00:00",
+    "end": "2022-12-09 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "2827",
+    "title": "PERŞEMBE",
+    "aciklama": "EZOGELİN ÇORBA,\nHASANPAŞA KÖFTE,\nSALÇALI MAKARNA,\nHAVUÇ TARATOR\n\n\n\n",
+    "start": "2022-12-08 00:00:00",
+    "end": "2022-12-08 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "2826",
+    "title": "ÇARŞAMBA",
+    "aciklama": "SEBZE ÇORBA,\nTAVUK DÖNER-ELMA DİLİM PATATES,\nERİŞTE,\nPUDİNG\n\n\n\n",
+    "start": "2022-12-07 00:00:00",
+    "end": "2022-12-07 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "2825",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBA,\nKIYMALI BEZELYE,\nFIRIN MAKARNA,\nKADAYIF TATLISI\n\n\n\n",
+    "start": "2022-12-06 00:00:00",
+    "end": "2022-12-06 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "2824",
     "title": "PAZARTESİ",
     "aciklama": "ŞEHRİYELİ YOĞURT ÇORBA,\nETLİ NOHUT,\nPİRİNÇ PİLAVI,\nTURŞU\n",

@@ -1,5 +1,25 @@
 [
   {
+    "day": "CUMA",
+    "date": "2022-12-09",
+    "content": "TARHANA ÇORBA,\nTAS KEBABI,\nBÖREK,\nKEMALPAŞA TATLISI"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2022-12-08",
+    "content": "EZOGELİN ÇORBA,\nHASANPAŞA KÖFTE,\nSALÇALI MAKARNA,\nHAVUÇ TARATOR"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2022-12-07",
+    "content": "SEBZE ÇORBA,\nTAVUK DÖNER-ELMA DİLİM PATATES,\nERİŞTE,\nPUDİNG"
+  },
+  {
+    "day": "SALI",
+    "date": "2022-12-06",
+    "content": "MERCİMEK ÇORBA,\nKIYMALI BEZELYE,\nFIRIN MAKARNA,\nKADAYIF TATLISI"
+  },
+  {
     "day": "PAZARTESİ",
     "date": "2022-12-05",
     "content": "ŞEHRİYELİ YOĞURT ÇORBA,\nETLİ NOHUT,\nPİRİNÇ PİLAVI,\nTURŞU"
