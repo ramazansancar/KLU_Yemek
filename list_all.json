@@ -1,6 +1,106 @@
 [
   {
     "day": "SALI",
+    "date": "2023-02-28",
+    "content": "MERCİMEK ÇORBA,\nUSKUMRU FİLETIO-ROKA SALATA,\nMAKARNA,\nTAHİN HELVA"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-02-27",
+    "content": "SEBZE ÇORBA,\nETLİ NOHUT,\nPİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-02-24",
+    "content": "YAYLA ÇORBA,\nTAS KEBABI,\nBÖREK,\nKOMPOSTO"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-02-23",
+    "content": "ŞEHRİYE ÇORBA,\nTAVUK DÖNER-SALATA,\nİÇ PİLAV,\nTULUMBA TATLISI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-02-22",
+    "content": "MERCİMEK ÇORBA,\nKADINBUDU KÖFTE-ELMA DİLİM PATATES,\nBARBUNYA PİLAKİ,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-02-21",
+    "content": "TAVUK SUYU ÇORBA,\nŞİNİTZEL-SALATA,\nERİŞTE,\nPORTAKAL"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-02-20",
+    "content": "TARHANA ÇORBA,\nKIYMALI YEŞİL MERCİMEK,\nBULGUR PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-02-17",
+    "content": "TERBİYELİ ŞEHRİYE ÇORBA,\nUSKUMRU FİLETO-ROKA SALATA,\nPİYAZ,\nTAHİN HELVASI"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-02-16",
+    "content": "MERCİMEK ÇORBA,\nİZMİR KÖFTE,\nMEYHANE PİLAVI,\nELMA"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-02-15",
+    "content": "TARHANA ÇORBA,\nORMAN KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-02-14",
+    "content": "EZOGELİN ÇORBA,\nKIYMALI BEZELYE,\nERİŞTE,\nPUDİNG"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-02-13",
+    "content": "SEBZE ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nTURŞU"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-02-10",
+    "content": "TAVUKSUYU ÇORBA,\nKURU KÖFTE-SALATA,\nFIRIN MAKARNA,\nBAKLAVA"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-02-09",
+    "content": "DOMATES ÇORBA,\nTAVUK DÖNER-ELMA DİLİM PATATES,\nPİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-02-08",
+    "content": "MERCİMEK ÇORBA,\nBAHÇIVAN KEBABI,\nBULGUR PİLAVI,\nMANDALİNA"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-02-07",
+    "content": "DÜĞÜN ÇORBA,\nŞİNİTZEL-SALATA,\nERİŞTE,\nTULUMBA TATLISI"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-02-06",
+    "content": "TARHANA ÇORBA,\nETLİ NOHUT,\nPİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-02-03",
+    "content": "SEBZE ÇORBA,\nÇITIR TAVUK-ELMA DİLİM PATATES,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-02-02",
+    "content": "EZOGELİN ÇORBA,\nUSKUMRU FİLETO-ROKA SALATASI,\nFIRIN MAKARNA,\nTAHİN HELVA"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-02-01",
+    "content": "TARHANA ÇORBA,\nİZMİR KÖFTE,\nERİŞTE,\nKAZANDİBİ"
+  },
+  {
+    "day": "SALI",
     "date": "2023-01-31",
     "content": "MERCİMEK ÇORBA,\nUSKUMRU FİLETO-ROKA SALATA,\nPATATES SALATASI,\nİRMİK HELVA"
   },
