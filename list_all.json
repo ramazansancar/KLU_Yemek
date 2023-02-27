@@ -1,5 +1,70 @@
 [
   {
+    "day": "CUMA",
+    "date": "2023-03-17",
+    "content": "NANELİ YOĞURT ÇORBA,\nORMAN KEBABI,\nARPA ŞEHRİYE PİLAVI,\nKADAYIF TATLISI"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-03-16",
+    "content": "KAŞARLI DOMATES ÇORBA,\nİZMİR KÖFTE,\nFIRIN MAKARNA,\nKOMPOSTO"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-03-15",
+    "content": "MAHLUTA ÇORBA,\nETLİ MEVSİM TÜRLÜ,\nPEYNİRLİ ERİŞTE,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-03-14",
+    "content": "TOYGA ÇORBA,\nTAVUK FAJİTA,\nTEL ŞEHRİYELİ BULGUR PİLAVI,\nPORTAKAL"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-03-13",
+    "content": "DÜĞÜN ÇORBA,\nETLİ KURU FASULYE,\nPİRİNÇ PİLAVI,\nTURŞU"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-03-10",
+    "content": "MERCİMEK  ÇORBA,\nUSKUMRU FİLETO-ROKA SALATA,\nPİYAZ,\nTAHİN HELVASI"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-03-09",
+    "content": "ANADOLU ÇORBA,\nISPANAKLI TAVUK SARMA,\nDOMATESLİ BULGUR PİLAVI,\nCACIK"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-03-08",
+    "content": "KÖYLÜ  ÇORBA,\nPÜRELİ ROSTO KÖFTE,\nZEYTİNYAĞLI PIRASA,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-03-07",
+    "content": "TARHANA ÇORBA,\nTAS KEBABI,\nARPA ŞEHRİYELİ PİRİNÇ PİLAVI,\nBAKLAVA"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-03-06",
+    "content": "TAVUKLU ŞEHRİYE ÇORBA,\nETLİ NOHUT,\nBULGUR PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-03-03",
+    "content": "EZOGELİN ÇORBA,\nTAVUK ROTİ-ELMA DİLİM PATATES,\nARPA ŞEHRİYELİ BULGUR PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-03-02",
+    "content": "TUTMAÇ ÇORBA,\nHASANPAŞA KÖFTE,\nSOSLU MAKARNA,\nMOR DÜNYA SALATASI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-03-01",
+    "content": "DOMATES ÇORBA,\nBAHÇIVAN KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nPUDİNG"
+  },
+  {
     "day": "SALI",
     "date": "2023-02-28",
     "content": "MERCİMEK ÇORBA,\nUSKUMRU FİLETIO-ROKA SALATA,\nMAKARNA,\nTAHİN HELVA"
