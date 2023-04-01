@@ -1,117 +1,92 @@
 [
   {
     "day": "CUMA",
-    "date": "2023-03-31",
-    "content": "DOMATES ÇORBA,\nET KAVURMA-SALATA,\nNOHUTLU PİRİNÇ PİLAVI,\nAYRAN"
+    "date": "2023-04-28",
+    "content": "MAHLUTA ÇORBA,\nPATLICAN MUSAKKA,\nGARNİTÜRLÜ PİLAV,\nKAZANDİBİ"
   },
   {
     "day": "PERŞEMBE",
-    "date": "2023-03-30",
-    "content": "ŞEHRİYE ÇORBA,\nIZGARA KÖFTE-SALATA,\nYOĞURTLU KARIŞIK KIZARTMA,\nTULUMBA TATLISI"
+    "date": "2023-04-27",
+    "content": "ŞAFAK  ÇORBA,\nÇITIR TAVUK-ELMA DİLİM PATATES,\nSALÇALI MAKARNA,\nAYRAN"
   },
   {
     "day": "ÇARŞAMBA",
-    "date": "2023-03-29",
-    "content": "ACEM ÇORBA,\nTAVUK HAŞLAMA,\nPEYNİRLİ MAKARNA,\nMANDALİNA"
+    "date": "2023-04-26",
+    "content": "NANELİ YOĞURT ÇORBA,\nTAS KEBABI,\nARPA ŞEHRİYE PİLAVI,\nMEYVE"
   },
   {
     "day": "SALI",
-    "date": "2023-03-28",
-    "content": "ŞİFA ÇORBA,\nBEŞAMEL SOSLU KIYMALI ISPANAK,\nSOSLU MAKARNA,\nKOMPOSTO"
+    "date": "2023-04-25",
+    "content": "ŞEHRİYE ÇORBA,\nPÜRELİ HASANPAŞA KÖFTE,\nERİŞTE,\nYOĞURT"
   },
   {
     "day": "PAZARTESİ",
-    "date": "2023-03-27",
-    "content": "TAVUKSUYU ÇORBA,\nKIYMALI YEŞİL MERCİMEK,\nMEYHANE PİLAVI,\nHAVUÇ TARATOR"
-  },
-  {
-    "day": "CUMA",
-    "date": "2023-03-24",
-    "content": "TARHANA ÇORBA,\nTAVUK KÜLBASTI,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nYOĞURT"
-  },
-  {
-    "day": "PERŞEMBE",
-    "date": "2023-03-23",
-    "content": "KREMALI MANTAR ÇORBA,\nÇİFTLİK KEBABI,\nFIRIN MAKARNA,\nKOMPOSTO"
+    "date": "2023-04-24",
+    "content": "TARHANA ÇORBA,\nKIYMALI YEŞİL MERCİMEK,\nPEYNİRLİ BÖREK,\nKADAYIF TATLISI"
   },
   {
     "day": "ÇARŞAMBA",
-    "date": "2023-03-22",
-    "content": "ARABAŞI ÇORBA,\nKIYMALI KARNABAHAR,\nPEYNİRLİ TEPSİ BÖREĞİ,\nSÜTLAÇ"
+    "date": "2023-04-19",
+    "content": "EZOGELİN ÇORBA,\nANKARA TAVA,\nKARIŞIK KIZARTMA,\nMEYVE"
   },
   {
     "day": "SALI",
-    "date": "2023-03-21",
-    "content": "MISIR  ÇORBA,\nSALÇALI SULU KÖFTE,\nPEYNİRLİ ERİŞTE,\nELMA"
+    "date": "2023-04-18",
+    "content": "KREMALI MANTAR  ÇORBA,\nTAVUK KÜLBASTI-ELMA DİLİM PATATES,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nLOKMA TATLISI"
   },
   {
     "day": "PAZARTESİ",
-    "date": "2023-03-20",
-    "content": "YAYLA ÇORBA,\nETLİ BARBUNYA,\nKUSKUS,\nAYRAN"
+    "date": "2023-04-17",
+    "content": "TAVUKLU ŞEHRİYE ÇORBA,\nETLİ BARBUNYA,\nKUSKUS,\nYOĞURT"
   },
   {
     "day": "CUMA",
-    "date": "2023-03-17",
-    "content": "NANELİ YOĞURT ÇORBA,\nORMAN KEBABI,\nARPA ŞEHRİYE PİLAVI,\nKADAYIF TATLISI"
+    "date": "2023-04-14",
+    "content": "DOMATES ÇORBA,\nTAVUK KAPAMA,\nPORTAKALLI KEREVİZ,\nMEYVE"
   },
   {
     "day": "PERŞEMBE",
-    "date": "2023-03-16",
-    "content": "KAŞARLI DOMATES ÇORBA,\nİZMİR KÖFTE,\nFIRIN MAKARNA,\nKOMPOSTO"
+    "date": "2023-04-13",
+    "content": "TOYGA ÇORBA,\nET KAVURMA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT"
   },
   {
     "day": "ÇARŞAMBA",
-    "date": "2023-03-15",
-    "content": "MAHLUTA ÇORBA,\nETLİ MEVSİM TÜRLÜ,\nPEYNİRLİ ERİŞTE,\nYOĞURT"
+    "date": "2023-04-12",
+    "content": "MERCİMEK ÇORBA,\nIZGARA KÖFTE-PATATES KIZARTMASI,\nBULGUR PİLAVI,\nAYRAN"
   },
   {
     "day": "SALI",
-    "date": "2023-03-14",
-    "content": "TOYGA ÇORBA,\nTAVUK FAJİTA,\nTEL ŞEHRİYELİ BULGUR PİLAVI,\nPORTAKAL"
+    "date": "2023-04-11",
+    "content": "YAYLA ÇORBA,\nKABAK SANDAL,\nPEYNİRLİ ERİŞTE,\nŞEKERPARE"
   },
   {
     "day": "PAZARTESİ",
-    "date": "2023-03-13",
-    "content": "DÜĞÜN ÇORBA,\nETLİ KURU FASULYE,\nPİRİNÇ PİLAVI,\nTURŞU"
+    "date": "2023-04-10",
+    "content": "DÜĞÜN ÇORBA,\nETLİ NOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKOMPOSTO"
   },
   {
     "day": "CUMA",
-    "date": "2023-03-10",
-    "content": "MERCİMEK  ÇORBA,\nUSKUMRU FİLETO-ROKA SALATA,\nPİYAZ,\nTAHİN HELVASI"
+    "date": "2023-04-07",
+    "content": "DOMATES ÇORBA,\nİZMİR KÖFTE,\nŞEHRİYELİ BULGUR PİLAVI,\nBAKLAVA"
   },
   {
     "day": "PERŞEMBE",
-    "date": "2023-03-09",
-    "content": "ANADOLU ÇORBA,\nISPANAKLI TAVUK SARMA,\nDOMATESLİ BULGUR PİLAVI,\nCACIK"
+    "date": "2023-04-06",
+    "content": "MISIR ÇORBA,\nKIYMALI BİBER DOLMA,\nBÖREK,\nCACIK"
   },
   {
     "day": "ÇARŞAMBA",
-    "date": "2023-03-08",
-    "content": "KÖYLÜ  ÇORBA,\nPÜRELİ ROSTO KÖFTE,\nZEYTİNYAĞLI PIRASA,\nAYRAN"
+    "date": "2023-04-05",
+    "content": "NANELİ YOĞURT ÇORBA,\nORMAN KEBABI,\nFIRIN MAKARNA,\nMEYVE"
   },
   {
     "day": "SALI",
-    "date": "2023-03-07",
-    "content": "TARHANA ÇORBA,\nTAS KEBABI,\nARPA ŞEHRİYELİ PİRİNÇ PİLAVI,\nBAKLAVA"
+    "date": "2023-04-04",
+    "content": "MERCİMEK ÇORBA,\nTAVUK ŞİŞ-ELMA DİLİM PATATES,\nKABAK MÜCVER,\nAYRAN"
   },
   {
     "day": "PAZARTESİ",
-    "date": "2023-03-06",
-    "content": "TAVUKLU ŞEHRİYE ÇORBA,\nETLİ NOHUT,\nBULGUR PİLAVI,\nYOĞURT"
-  },
-  {
-    "day": "CUMA",
-    "date": "2023-03-03",
-    "content": "EZOGELİN ÇORBA,\nTAVUK ROTİ-ELMA DİLİM PATATES,\nARPA ŞEHRİYELİ BULGUR PİLAVI,\nAYRAN"
-  },
-  {
-    "day": "PERŞEMBE",
-    "date": "2023-03-02",
-    "content": "TUTMAÇ ÇORBA,\nHASANPAŞA KÖFTE,\nSOSLU MAKARNA,\nMOR DÜNYA SALATASI"
-  },
-  {
-    "day": "ÇARŞAMBA",
-    "date": "2023-03-01",
-    "content": "DOMATES ÇORBA,\nBAHÇIVAN KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nPUDİNG"
+    "date": "2023-04-03",
+    "content": "SEBZE ÇORBA,\nETLİ KURU FASULYE,\nPİRİNÇ PİLAVI,\nYOĞURT"
   }
 ]
