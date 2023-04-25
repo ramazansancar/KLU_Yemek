@@ -1,5 +1,70 @@
 [
   {
+    "day": "PERŞEMBE",
+    "date": "2023-05-18",
+    "content": "MERCİMEK ÇORBA, ETLİ TAZE FASULYE, TAVUKLU PİRİNÇ PİLAVI, SAKIZLI MUHALLEBİ"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-05-17",
+    "content": "KAŞARLI DOMATES ÇORBASI, ÇITIR TAVUK-SALATA, MERCİMEKLİ BULGUR PİLAVI, AYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-05-16",
+    "content": "EZOGELİN ÇORBA, KÖFTE-ELMA DİLİM PATATES, ARPA ŞEHRİYE PİLAVI,\nAMERİKAN SALATASI"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-05-15",
+    "content": "TERBİYELİ TAVUK SUYU ÇORBA, ETLİ NOHUT, PİRİNÇ PİLAVI, CACIK"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-05-12",
+    "content": "TOYGA ÇORBA, KARNIYARIK, GARNİTÜRLÜ PİRİNÇ PİLAVI, AYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-05-11",
+    "content": "ŞEHRİYE ÇORBA, KADINBUDU KÖFTE-SALATA, SOSLU MAKARNA, PUDİNG"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-05-10",
+    "content": "MERCİMEK ÇORBA, KIYMALI BİBER DOLMASI, YOĞURTLU KARIŞIK KIZARTMA, ELMA"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-05-09",
+    "content": "YAYLA ÇORBA, TAVUK KÜLBASTI-ELMA DİLİM PATATES, YOĞURTLU MANTI, TULUMBA TATLISI"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-05-08",
+    "content": "DÜĞÜN ÇORBA, ETLİ KURU FASULYE, PİRİNÇ PİLAVI, YOĞURT"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-05-05",
+    "content": "SEBZE ÇORBA, ANKARA TAVA, YOĞURTLU KARIŞIK KIZARTMA, KABAK TATLISI"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-05-04",
+    "content": "EZOGELİN ÇORBA, TAVUKLU BEZELYE, FIRIN MAKARNA, BAKLAVA"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-05-03",
+    "content": "DÜĞÜN ÇORBA, İZMİR KÖFTE, PİRİNÇ PİLAVI, CACIK"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-05-02",
+    "content": "MERCİMEK ÇORBA,\nTAVUKDÖNER-MEVSİM SALATA,\nMAKARNA,\nAYRAN"
+  },
+  {
     "day": "CUMA",
     "date": "2023-04-28",
     "content": "MAHLUTA ÇORBA,\nPATLICAN MUSAKKA,\nGARNİTÜRLÜ PİLAV,\nKAZANDİBİ"
