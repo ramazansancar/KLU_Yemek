@@ -1,5 +1,45 @@
 [
   {
+    "day": "ÇARŞAMBA",
+    "date": "2023-05-31",
+    "content": "KAŞARLI DOMATES ÇORBA,\nPATLICAN MUSAKKA,\nİÇ PİLAV,\nCACIK"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-05-30",
+    "content": "MERCİMEK ÇORBA,\nANKARA TAVA,\nSARIMSAKLI YOĞURTLU KIZARTMA,\nHAYRABOLU TATLISI"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-05-29",
+    "content": "DÜĞÜN ÇORBA,\nETLİ KURU FASULYE,\nPİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-05-26",
+    "content": "YAYLA ÇORBA,\nTAS KEBABI,\nBULGUR PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-05-25",
+    "content": "TAVUK SUYU ÇORBA,\nBAKLA,\nFIRIN MAKARNA,\nYOĞURT"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-05-24",
+    "content": "MERCİMEK ÇORBA,\nHASANPAŞA KÖFTE,\nPEYNİRLİ CEVİZLİ ERİŞTE,\nMOR DÜNYA SALATASI"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-05-23",
+    "content": "EZOGELİN ÇORBA,\nTAVUK ŞİŞ-ELMA DİLİM PATATES,\nYOĞURTLU KABAK KIZARTMA,\nİRMİK HELVASI"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-05-22",
+    "content": "KREMALI MANTAR ÇORBA,\nETLİ BARBUNYA,\nPİRİNÇ PİLAVI,\nCACIK"
+  },
+  {
     "day": "PERŞEMBE",
     "date": "2023-05-18",
     "content": "MERCİMEK ÇORBA, ETLİ TAZE FASULYE, TAVUKLU PİRİNÇ PİLAVI, SAKIZLI MUHALLEBİ"
