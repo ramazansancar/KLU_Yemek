@@ -9,7 +9,7 @@ on:
       - '!list_all.json'
       - '!list_raw.json'
   schedule: 
-    - cron: '0 */1 * * *'
+    - cron: '0 */1 * * *' # every hour
   
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
@@ -20,7 +20,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [16.x]
+        node-version: [18.x]
 
     steps:
     - uses: actions/checkout@v3
