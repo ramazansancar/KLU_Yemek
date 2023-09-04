@@ -6,6 +6,8 @@
  *          Ramazan Sancar - ramazansancar
  */
 
+process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0'; // https://stackoverflow.com/a/20100521/15030183
+
  var jsdom = require("jsdom");
  const { JSDOM } = jsdom;
  const { window } = new JSDOM();
