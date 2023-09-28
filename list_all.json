@@ -1,5 +1,65 @@
 [
   {
+    "day": "SALI",
+    "date": "2023-10-31",
+    "content": "EZOGELİN ÇORBA,\nNUGGET-PATATES KIZARTMASI,\nMAKARNA,\nMEYVE"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-10-30",
+    "content": "DÜĞÜN ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nPİRİNÇ PİLAVI,\nTURŞU"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-10-27",
+    "content": "SEBZE ÇORBA,\nBAHÇIVAN KEBABI,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nMANDALİNA"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-10-26",
+    "content": "ŞEHRİYE ÇORBA,\nKIŞ TÜRLÜSÜ,\nBULGUR PİLAVI,\nPUDİNG"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-10-25",
+    "content": "MERCİMEK ÇORBA,\nÇITIR TAVUK-ELMA DİLİM PATATES,\nERİŞTE,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-10-24",
+    "content": "DOMATES  ÇORBA,\nKADINBUDU KÖFTE-PATATES KIZARTMASI,\nZEYTİNYAĞLI KEREVİZ,\nYOĞURT"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-10-23",
+    "content": "TARHANA ÇORBA,\nKIYMALI YEŞİL MERCİMEK,\n BÖREK,\nELMA"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-10-20",
+    "content": "TERBİYELİ ŞEHRİYE ÇORBA,\nTAVUK KAVURMA,\nMAKARNA,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-10-19",
+    "content": "MERCİMEK ÇORBA,\nKIYMALI TAZE FASULYE,\nBULGUR PİLAVI,\nBAKLAVA"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-10-18",
+    "content": "SEBZE ÇORBA,\nİZMİR KÖFTE,\nERİŞTE,\nMEYVE"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-10-17",
+    "content": "EZOGELİN ÇORBA,\nTAVUK DÖNER-SALATA,\nPİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-10-16",
+    "content": "NANELİ YOĞURT ÇORBA,\nETLİ NOHUT,\nBULGUR PİLAVI,\nCACIK"
+  },
+  {
     "day": "CUMA",
     "date": "2023-10-13",
     "content": "YAYLA ÇORBA,\nORMAN KEBABI,\nBÖREK,\nKOMPOSTO"
