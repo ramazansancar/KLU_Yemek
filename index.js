@@ -16,7 +16,9 @@ const { window } = new JSDOM();
 var $ = (jQuery = require("jquery")(window));
 const fs = require("fs");
 const axios = require("axios");
+const crypto = require("crypto");
 const https = require("https");
+const http = require("http");
 
 var website = "";
 
@@ -29,6 +31,13 @@ var website = "";
       },
       httpsAgent: new https.Agent({
         rejectUnauthorized: false,
+        secureOptions: crypto.constants.SSL_OP_LEGACY_SERVER_CONNECT,
+        keepAlive: true,
+      }),
+      httpAgent: new http.Agent({
+        rejectUnauthorized: false,
+        secureOptions: crypto.constants.SSL_OP_LEGACY_SERVER_CONNECT,
+        keepAlive: true,
       }),
     })
     .then(({ status, data, headers }) => {
