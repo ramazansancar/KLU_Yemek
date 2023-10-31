@@ -1,5 +1,45 @@
 [
   {
+    "day": "CUMA",
+    "date": "2023-11-10",
+    "content": "TARHANA ÇORBA,\nUSKUMRU FİLETO,\nZEYTİNYAĞLI PIRASA,\nİRMİK HELVASI"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-11-09",
+    "content": "ŞEHRİYE ÇORBA,\nPATLICAN MUSAKKA,\nPİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-11-08",
+    "content": "MERCİMEK ÇORBA,\nEKŞİLİ KÖFTE,\nERİŞTE,\nBAKLAVA"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-11-07",
+    "content": "DOMATES ÇORBA,\nFIRIN TAVUK-ELMA DİLİM PATATES,\nBULGUR PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-11-06",
+    "content": "TAVUKSUYU ÇORBA,\nETLİ NOHUT,\nMISIRLI PİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-11-03",
+    "content": "NANELİ YOĞURT ÇORBA,\nTAS KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-11-02",
+    "content": "MERCİMEK ÇORBA,\nTAVUKLU BEZELYE,\nBULGUR PİLAVI,\nTULUMBA TATLISI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-11-01",
+    "content": "TARHANA ÇORBA,\nKURU KÖFTE-SALATA,\nSPAGETTİ\nYOĞURT"
+  },
+  {
     "day": "SALI",
     "date": "2023-10-31",
     "content": "EZOGELİN ÇORBA,\nNUGGET-PATATES KIZARTMASI,\nMAKARNA,\nMEYVE"
