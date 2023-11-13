@@ -1,5 +1,75 @@
 [
   {
+    "day": "PERŞEMBE",
+    "date": "2023-11-30",
+    "content": "DOMATES ÇORBA,\nKIYMALI BİBER DOLMA,\nBÖREK,\nKOMPOSTO"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-11-29",
+    "content": "MERCİMEK ÇORBA,\nİÇLİ KÖFTE   PATATES PÜRESİ,\nERİŞTE,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-11-28",
+    "content": "EZOGELİN ÇORBA,\nŞİNİTZEL   PATATES KIZARTMA,\nMAKARNA,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-11-27",
+    "content": "MANTAR ÇORBA,\nKIYMALI YEŞİL MERCİMEK,\nBÖREK,\nMEYVE"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-11-24",
+    "content": "SEBZE ÇORBA,\nBAHÇIVAN KEBABI,\nBÖREK,\nCACIK"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-11-23",
+    "content": "ŞEHRİYE ÇORBA,\nPATATES OTURTMA,\nKUSKUS,\nMEYVE"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-11-22",
+    "content": "DOMATES ÇORBA,\nKADINBUDU KÖFTE   PATATES KIZARTMASI,\nSPAGETTİ,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-11-21",
+    "content": "MERCİMEK ÇORBA,\nSEBZELİ TAVUK SOTE,\nERİŞTE,\nTATLI"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-11-20",
+    "content": "TARHANA ÇORBA,\nHAVUÇLU PATATESLİ BARBUNYA YEMEĞİ,\nPİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "CUMA",
+    "date": "2023-11-17",
+    "content": "DOMATES ÇORBA,\nORMAN KEBABI,\nBÖREK,\nKOMPOSTO"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2023-11-16",
+    "content": "MANTAR ÇORBA,\nKIYMALI KARNABAHAR,\nMAKARNA,\nTULUMBA TATLISI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2023-11-15",
+    "content": "MERCİMEK ÇORBA,\nTAVUK DÖNER   SALATA,\nPİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2023-11-14",
+    "content": "EZOGELİN ÇORBA,\nROSTO KÖFTE   PATATES PÜRESİ,\nMAKARNA,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2023-11-13",
+    "content": "TAVUKSUYU ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nPİRİNÇ PİLAVI,\nTURŞU"
+  },
+  {
     "day": "CUMA",
     "date": "2023-11-10",
     "content": "TARHANA ÇORBA,\nUSKUMRU FİLETO-SALATA,\nZEYTİNYAĞLI PIRASA,\nİRMİK HELVASI"
