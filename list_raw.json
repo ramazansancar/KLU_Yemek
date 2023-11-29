@@ -1,5 +1,173 @@
 [
   {
+    "id": "3171",
+    "title": "CUMA",
+    "aciklama": "TARHANA ÇORBA,\nŞİNİTZEL - PATATES KIZARTMA,\nMAKARNA,\nPORTAKAL\n",
+    "start": "2023-12-29 00:00:00",
+    "end": "2023-12-29 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3170",
+    "title": "PERŞEMBE",
+    "aciklama": "DOMATES ÇORBA,\nPATLICAN MUSAKKA,\nKUSKUS,\nYOĞURT\n",
+    "start": "2023-12-28 00:00:00",
+    "end": "2023-12-28 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3169",
+    "title": "ÇARŞAMBA",
+    "aciklama": "MERCİMEK ÇORBA,\n KURU KÖFTE - PATATES KIZARTMASI,\nERİŞTE,\nTATLI\n",
+    "start": "2023-12-27 00:00:00",
+    "end": "2023-12-27 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3168",
+    "title": "SALI",
+    "aciklama": "EZOGELİN ÇORBA,\nKURU FASULYE,\nMISIRLI PİRİNÇ PİLAVI,\nTURŞU\n",
+    "start": "2023-12-26 00:00:00",
+    "end": "2023-12-26 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3167",
+    "title": "PAZARTESİ",
+    "aciklama": "SEBZE ÇORBA,\nTAVUK DÖNER - PATATES KIZARTMASI,\nMAKARNA,\nAYRAN\n",
+    "start": "2023-12-25 00:00:00",
+    "end": "2023-12-25 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3166",
+    "title": "CUMA",
+    "aciklama": "SEBZE ÇORBA,\nBAHÇIVAN KEBABI,\nFIRIN MAKARNA,\nCACIK\n",
+    "start": "2023-12-22 00:00:00",
+    "end": "2023-12-22 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3165",
+    "title": "PERŞEMBE",
+    "aciklama": "ŞEHRİYE ÇORBA,\nKIYMALI PIRASA,\nKUSKUS,\nMEYVE\n",
+    "start": "2023-12-21 00:00:00",
+    "end": "2023-12-21 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3164",
+    "title": "ÇARŞAMBA",
+    "aciklama": "DOMATES ÇORBA,\nETLİ NOHUT,\nPİRİNÇ PİLAVI,\nYOĞURT\n",
+    "start": "2023-12-20 00:00:00",
+    "end": "2023-12-20 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3163",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBA,\nSEBZELİ TAVUK SOTE,\nSPAGETTİ,\nTATLI\n",
+    "start": "2023-12-19 00:00:00",
+    "end": "2023-12-19 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3162",
+    "title": "PAZARTESİ",
+    "aciklama": "TARHANA ÇORBA,\nŞİNİTZEL - PATATES KIZARTMASI,\nERİŞTE,\nAYRAN\n",
+    "start": "2023-12-18 00:00:00",
+    "end": "2023-12-18 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3161",
+    "title": "CUMA",
+    "aciklama": "DOMATES ÇORBA,\nORMAN KEBABI,\nBÖREK,\nAYRAN\n",
+    "start": "2023-12-15 00:00:00",
+    "end": "2023-12-15 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3160",
+    "title": "PERŞEMBE",
+    "aciklama": "MANTAR ÇORBA,\nKIYMALI KARNABAHAR,\nMAKARNA,\nTULUMBA TATLISI\n",
+    "start": "2023-12-14 00:00:00",
+    "end": "2023-12-14 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3159",
+    "title": "ÇARŞAMBA",
+    "aciklama": "MERCİMEK ÇORBA\nTAVUK DÖNER - SALATA,\nPİRİNÇ PİLAVI,\nAYRAN\n",
+    "start": "2023-12-13 00:00:00",
+    "end": "2023-12-13 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3158",
+    "title": "SALI",
+    "aciklama": "EZOGELİN ÇORBA,\nKURU KÖFTE - PATATES KIZARTMASI,\nERİŞTE,\nYOĞURT\n",
+    "start": "2023-12-12 00:00:00",
+    "end": "2023-12-12 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3157",
+    "title": "PAZARTESİ",
+    "aciklama": "DÜĞÜN ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nTURŞU\n",
+    "start": "2023-12-11 00:00:00",
+    "end": "2023-12-11 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3156",
+    "title": "CUMA",
+    "aciklama": "TARHANA ÇORBA,\nTAS KEBABI,\nBÖREK,\nAYRAN\n",
+    "start": "2023-12-08 00:00:00",
+    "end": "2023-12-08 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3155",
+    "title": "PERŞEMBE",
+    "aciklama": "ŞEHRİYE ÇORBA,\nPATLICAN MUSAKKA,\nPİRİNÇ PİLAVI,\nYOĞURT\n",
+    "start": "2023-12-07 00:00:00",
+    "end": "2023-12-07 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3154",
+    "title": "ÇARŞAMBA",
+    "aciklama": "MERCİMEK ÇORBA,\nETLİ NOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN\n",
+    "start": "2023-12-06 00:00:00",
+    "end": "2023-12-06 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3153",
+    "title": "SALI",
+    "aciklama": "DOMATES ÇORBA,\nİZMİR KÖFTE,\nMAKARNA,\nŞERBETLİ TATLI\n",
+    "start": "2023-12-05 00:00:00",
+    "end": "2023-12-05 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3152",
+    "title": "PAZARTESİ",
+    "aciklama": "EZOGELİN ÇORBA,\nNUGGET -PATATES KIZARTMASI,\nSPAGETTİ,\nMEYVE\n",
+    "start": "2023-12-04 00:00:00",
+    "end": "2023-12-04 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3151",
+    "title": "CUMA",
+    "aciklama": "SEBZE ÇORBA,\nŞEHRİYELİ GÜVEÇ,\nKARIŞIK KIZARTMA,\nMEYVE\n",
+    "start": "2023-12-01 00:00:00",
+    "end": "2023-12-01 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3150",
     "title": "PERŞEMBE",
     "aciklama": "DOMATES ÇORBA,\nKIYMALI BİBER DOLMA,\nBÖREK,\nKOMPOSTO\n",
