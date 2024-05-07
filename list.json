@@ -1,6 +1,81 @@
 [
   {
     "day": "CUMA",
+    "date": "2024-05-31",
+    "content": "YAYLA ÇORBA,\nORMAN KEBABI,\nGÜL BÖREĞİ,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-05-30",
+    "content": "TAVUKSUYU ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-05-29",
+    "content": "MERCİMEK ÇORBA,\nNUGGET,\nERİŞTE,\nERİK"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-05-28",
+    "content": "EZOGELİN ÇORBA,\nSEBZELİ TAVUK SOTE,\nSPAGETTİ,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-05-27",
+    "content": "DÜĞÜN ÇORBASI,\nDOMATESLİ BİBERLİ KURU FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nTURŞU"
+  },
+  {
+    "day": "CUMA",
+    "date": "2024-05-24",
+    "content": "MANTAR ÇORBA,\nİSLİM KEBABI,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-05-23",
+    "content": "TAVUKSUYU ÇORBA,\nTAVUK DÖNER - SALATA,\nBULGUR PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-05-22",
+    "content": "MERCİMEK ÇORBA,\nKURU KÖFTE - ELMA DİLİM PATATES,\nSPAGETTİ,\nTULUMBA TATLISI"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-05-21",
+    "content": "DOMATES ÇORBA,\nŞİNİTZEL - SALATA,\nPİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-05-20",
+    "content": "TARHANA ÇORBA,\nKIYMALI BEZELYE,\nERİŞTE,\nARMUT"
+  },
+  {
+    "day": "CUMA",
+    "date": "2024-05-17",
+    "content": "DOMATES ÇORBA,\nBAHÇIVAN KEBABI,\nGÜL BÖREĞİ,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-05-16",
+    "content": "ŞEHRİYE ÇORBA,\nNUGGET-SALATA,\nBULGUR PİLAVI,\nBALLI BALIM TATLISI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-05-15",
+    "content": "TARHANA ÇORBA,\nEKŞİLİ KÖFTE,\nERİŞTE,\nELMA"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-05-14",
+    "content": "MERCİMEK ÇORBA,\nTAVUK DÖNER - SALATA,\nSPAGETTİ,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-05-13",
+    "content": "TAVUKSUYU ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nBULGUR PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "CUMA",
     "date": "2024-05-10",
     "content": "SEBZE ÇORBA,\nTAS KEBABI,\nGÜL BÖREĞİ,\nAYRAN"
   },
