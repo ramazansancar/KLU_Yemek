@@ -1,112 +1,87 @@
 [
   {
     "day": "CUMA",
-    "date": "2024-05-31",
-    "content": "YAYLA ÇORBA,\nORMAN KEBABI,\nGÜL BÖREĞİ,\nAYRAN"
+    "date": "2024-06-28",
+    "content": "MANTAR ÇORBA,\nİSLİM KEBABI,\nSEBZELİ BULGUR PİLAVI,\nKARPUZ"
   },
   {
     "day": "PERŞEMBE",
-    "date": "2024-05-30",
-    "content": "TAVUKSUYU ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT"
+    "date": "2024-06-27",
+    "content": "EZOGELİN ÇORBA,\nTAVUK DÖNER-SALATA,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN"
   },
   {
     "day": "ÇARŞAMBA",
-    "date": "2024-05-29",
-    "content": "MERCİMEK ÇORBA,\nNUGGET-ELMA DİLİM PATATES,\nERİŞTE,\nERİK"
+    "date": "2024-06-26",
+    "content": "MERCİMEK ÇORBA,\nROSTO KÖFTE-PATATES PÜRESİ,\nSPAGETTİ,\nTULUMBA TATLISI"
   },
   {
     "day": "SALI",
-    "date": "2024-05-28",
-    "content": "EZOGELİN ÇORBA,\nSEBZELİ TAVUK SOTE,\nMAKARNA,\nAYRAN"
+    "date": "2024-06-25",
+    "content": "DOMATES ÇORBA\nŞİNİTZEL-SALATA,\nERİŞTE,\nAYRAN"
   },
   {
     "day": "PAZARTESİ",
-    "date": "2024-05-27",
-    "content": "DÜĞÜN ÇORBASI,\nDOMATESLİ BİBERLİ KURU FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nTURŞU"
+    "date": "2024-06-24",
+    "content": "DÜĞÜN ÇORBA,\nNOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKAYISI"
   },
   {
     "day": "CUMA",
-    "date": "2024-05-24",
-    "content": "MANTAR ÇORBA,\nİSLİM KEBABI,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nYOĞURT"
+    "date": "2024-06-21",
+    "content": "DOMATES ÇORBA,\nBAHÇIVAN KEBABI,\nSU BÖREĞİ,\nAYRAN"
   },
   {
     "day": "PERŞEMBE",
-    "date": "2024-05-23",
-    "content": "TAVUKSUYU ÇORBA,\nTAVUK DÖNER - SALATA,\nBULGUR PİLAVI,\nAYRAN"
+    "date": "2024-06-20",
+    "content": "ŞEHRİYE ÇORBA,\nNUGGET-RENDE HAVUÇ,\nPİRİNÇ PİLAVI,\nŞEFTALİ"
+  },
+  {
+    "day": "CUMA",
+    "date": "2024-06-14",
+    "content": "EZOGELİN ÇORBA,\nTAS KEBABI,\nGÜL BÖREĞİ,\nPROFİTEROL"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-06-13",
+    "content": "ŞEHRİYE ÇORBA,\nPATLICAN MUSAKKA,\nPİRİNÇ PİLAVI,\nKARPUZ"
   },
   {
     "day": "ÇARŞAMBA",
-    "date": "2024-05-22",
-    "content": "MERCİMEK ÇORBA,\nKURU KÖFTE - ELMA DİLİM PATATES,\nSPAGETTİ,\nTULUMBA TATLISI"
+    "date": "2024-06-12",
+    "content": "SEBZE ÇORBA,\nFIRIN TAVUK-ELMA DİLİM PATATES,\nSOSLU MAKARNA,\nREVANİ"
   },
   {
     "day": "SALI",
-    "date": "2024-05-21",
-    "content": "DOMATES ÇORBA,\nŞİNİTZEL - SALATA,\nPİRİNÇ PİLAVI,\nAYRAN"
+    "date": "2024-06-11",
+    "content": "MERCİMEK ÇORBA,\nŞİNİTZEL-RENDE LAHANA HAVUÇ,\nERİŞTE,\nAYRAN"
   },
   {
     "day": "PAZARTESİ",
-    "date": "2024-05-20",
-    "content": "TARHANA ÇORBA,\nKIYMALI BEZELYE,\nERİŞTE,\nARMUT"
+    "date": "2024-06-10",
+    "content": "TAVUKSUYU ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nTURŞU"
   },
   {
     "day": "CUMA",
-    "date": "2024-05-17",
-    "content": "DOMATES ÇORBA,\nBAHÇIVAN KEBABI,\nGÜL BÖREĞİ,\nAYRAN"
+    "date": "2024-06-07",
+    "content": "MERCİMEK ÇORBA,\nKIYMALI BİBER DOLMA-YOĞURT,\nSU BÖREĞİ,\nPUDİNG"
   },
   {
     "day": "PERŞEMBE",
-    "date": "2024-05-16",
-    "content": "ŞEHRİYE ÇORBA,\nNUGGET-SALATA,\nBULGUR PİLAVI,\nBALLI BALIM TATLISI"
+    "date": "2024-06-06",
+    "content": "TARHANA ÇORBA,\nROSTO KÖFTE-PÜRE,\nSOSLU MAKARNA,\nAYRAN"
   },
   {
     "day": "ÇARŞAMBA",
-    "date": "2024-05-15",
-    "content": "TARHANA ÇORBA,\nEKŞİLİ KÖFTE,\nERİŞTE,\nELMA"
+    "date": "2024-06-05",
+    "content": "TAVUKSUYU ÇORBA,\nPATATES OTURTMA,\nERİŞTE,\nERİK"
   },
   {
     "day": "SALI",
-    "date": "2024-05-14",
-    "content": "MERCİMEK ÇORBA,\nTAVUK DÖNER - SALATA,\nSPAGETTİ,\nAYRAN"
+    "date": "2024-06-04",
+    "content": "DOMATES ÇORBA,\nTAVUK DÖNER-RENDE HAVUÇ,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
   },
   {
     "day": "PAZARTESİ",
-    "date": "2024-05-13",
-    "content": "TAVUKSUYU ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nBULGUR PİLAVI,\nYOĞURT"
-  },
-  {
-    "day": "CUMA",
-    "date": "2024-05-10",
-    "content": "SEBZE ÇORBA,\nTAS KEBABI,\nGÜL BÖREĞİ,\nAYRAN"
-  },
-  {
-    "day": "PERŞEMBE",
-    "date": "2024-05-09",
-    "content": "TAVUKSUYU ÇORBA,\nPATLICAN MUSAKKA,\nPİRİNÇ PİLAVI,\nYOĞURT"
-  },
-  {
-    "day": "ÇARŞAMBA",
-    "date": "2024-05-08",
-    "content": "EZOGELİN ÇORBA,\nFIRIN TAVUK - ELMA DİLİM PATATES,\nBULGUR PİLAVI,\nREVANİ"
-  },
-  {
-    "day": "SALI",
-    "date": "2024-05-07",
-    "content": "MERCİMEK ÇORBA,\nKADINBUDU KÖFTE - SALATA,\nERİŞTE,\nAYRAN"
-  },
-  {
-    "day": "PAZARTESİ",
-    "date": "2024-05-06",
-    "content": "DOMATES ÇORBA,\nNOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nTURŞU"
-  },
-  {
-    "day": "CUMA",
-    "date": "2024-05-03",
-    "content": "MANTAR ÇORBA,\nFIRIN TAVUK-ELMA DİLİM PATATES,\nBULGUR PİLAVI,\nTULUMBA TATLISI"
-  },
-  {
-    "day": "PERŞEMBE",
-    "date": "2024-05-02",
-    "content": "MERCİMEK ÇORBA,\nROSTO KÖFTE-PÜRE,\nSPAGETTİ,\nELMA"
+    "date": "2024-06-03",
+    "content": "MERCİMEK ÇORBA,\nNOHUT,\nMEYHANE PİLAVI,\nYOĞURT"
   }
 ]
