@@ -40,22 +40,6 @@
     "allDay": "1"
   },
   {
-    "id": "3340",
-    "title": "CUMA",
-    "aciklama": "DOMATES ÇORBA,\nBAHÇIVAN KEBABI,\nSU BÖREĞİ,\nAYRAN\n",
-    "start": "2024-06-21 00:00:00",
-    "end": "2024-06-21 00:00:00",
-    "allDay": "1"
-  },
-  {
-    "id": "3339",
-    "title": "PERŞEMBE",
-    "aciklama": "ŞEHRİYE ÇORBA,\nNUGGET-RENDE HAVUÇ,\nPİRİNÇ PİLAVI,\nŞEFTALİ\n",
-    "start": "2024-06-20 00:00:00",
-    "end": "2024-06-20 00:00:00",
-    "allDay": "1"
-  },
-  {
     "id": "3338",
     "title": "CUMA",
     "aciklama": "EZOGELİN ÇORBA,\nTAS KEBABI,\nGÜL BÖREĞİ,\nPROFİTEROL\n",
