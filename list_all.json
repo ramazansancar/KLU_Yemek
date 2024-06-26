@@ -1,6 +1,31 @@
 [
   {
     "day": "CUMA",
+    "date": "2024-07-05",
+    "content": "MANTAR ÇORBA, BAHÇIVAN KEBABI, BÖREK, BALLI BALIM TATLISI"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-07-04",
+    "content": "EZOGELİN ÇORBA, FIRIN BAGET, MAKARNA, KARPUZ"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-07-03",
+    "content": "ŞEHRİYE ÇORBA, PATLICAN MUSAKKA, ŞEHRİYELİ PİRİNÇ PİLAVI, AYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-07-02",
+    "content": "MERCİMEK ÇORBA, ŞİNİTZEL, BULGUR PİLAVI, ERİK KOMPOSTO"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-07-01",
+    "content": "DOMATES ÇORBA, DOMATESLİ BİBERLİ KURU FASULYE, ŞEHRİYELİ PİRİNÇ PİLAVI, AYRAN"
+  },
+  {
+    "day": "CUMA",
     "date": "2024-06-28",
     "content": "MANTAR ÇORBA,\nİSLİM KEBABI,\nSEBZELİ BULGUR PİLAVI,\nKARPUZ"
   },
