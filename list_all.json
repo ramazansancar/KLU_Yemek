@@ -1,6 +1,26 @@
 [
   {
     "day": "CUMA",
+    "date": "2024-07-19",
+    "content": "SEBZE ÇORBA,\nTAVUK KAVURMA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-07-18",
+    "content": "TAVUKSUYU ÇORBA,\nPATLICAN MUSAKKA,\nMEYHANE PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-07-17",
+    "content": "DOMATES ÇORBA,\nEKŞİLİ KÖFTE,\nERİŞTE,\nKAYISI"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-07-16",
+    "content": "MERCİMEK ÇORBA,\nTAVUKLU BEZELYE,\nSOSLU SPAGETTİ,\nKARPUZ"
+  },
+  {
+    "day": "CUMA",
     "date": "2024-07-12",
     "content": "EZOGELİN ÇORBA, HASANPAŞA KÖFTE, ZEYTİNYAĞLI İMAMBAYILDI, CACIK"
   },

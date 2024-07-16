@@ -1,5 +1,37 @@
 [
   {
+    "id": "3359",
+    "title": "CUMA",
+    "aciklama": "SEBZE ÇORBA,\nTAVUK KAVURMA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN\n",
+    "start": "2024-07-19 00:00:00",
+    "end": "2024-07-19 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3358",
+    "title": "PERŞEMBE",
+    "aciklama": "TAVUKSUYU ÇORBA,\nPATLICAN MUSAKKA,\nMEYHANE PİLAVI,\nYOĞURT\n",
+    "start": "2024-07-18 00:00:00",
+    "end": "2024-07-18 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3357",
+    "title": "ÇARŞAMBA",
+    "aciklama": "DOMATES ÇORBA,\nEKŞİLİ KÖFTE,\nERİŞTE,\nKAYISI\n",
+    "start": "2024-07-17 00:00:00",
+    "end": "2024-07-17 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3356",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBA,\nTAVUKLU BEZELYE,\nSOSLU SPAGETTİ,\nKARPUZ\n",
+    "start": "2024-07-16 00:00:00",
+    "end": "2024-07-16 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3355",
     "title": "CUMA",
     "aciklama": "EZOGELİN ÇORBA, HASANPAŞA KÖFTE, ZEYTİNYAĞLI İMAMBAYILDI, CACIK",
