@@ -1,5 +1,45 @@
 [
   {
+    "day": "ÇARŞAMBA",
+    "date": "2024-07-31",
+    "content": "MERCİMEK ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKARPUZ"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-07-30",
+    "content": "DOMATES ÇORBA,\nFIRIN TAVUK  SALATA,\nERİŞTE,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-07-29",
+    "content": "DÜĞÜN ÇORBA,\nTAZE FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "CUMA",
+    "date": "2024-07-26",
+    "content": "MANTAR ÇORBA,\nİSLİM KEBABI,\nSEBZELİ BULGUR PİLAVI,\nKARPUZ"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-07-25",
+    "content": "EZOGELİN ÇORBA,\nTAVUK DÖNER - SALATA,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-07-24",
+    "content": "MERCİMEK ÇORBA,\nKADINBUDU KÖFTE,\nSPAGETTİ,\nKARPUZ"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-07-23",
+    "content": "DOMATES ÇORBA,\nIZGARA TAVUK - SALATA,\nERİŞTE,\nAYRAN"
+  },
+  {
+    "day": "",
+    "date": "2024-07-22",
+    "content": "DÜĞÜN ÇORBA,\nETLİ YAZ TÜRLÜSÜ,\nBÖREK,\nKAVUN"
+  },
+  {
     "day": "CUMA",
     "date": "2024-07-19",
     "content": "SEBZE ÇORBA,\nTAVUK KAVURMA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
