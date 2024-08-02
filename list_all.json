@@ -1,6 +1,31 @@
 [
   {
     "day": "CUMA",
+    "date": "2024-08-09",
+    "content": "EZOGELİN ÇORBA,\nORMAN KEBABI,\nSU BÖREĞİ,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-08-08",
+    "content": "ŞEHRİYE ÇORBA,\nTERBİYELİ TAVUK HAŞLAMA,\nYOĞURTLU KARIŞIK KIZATMA,\nŞEKERPARE"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-08-07",
+    "content": "MERCİMEK ÇORBA,\nKARIŞIK IZGARA,\nŞEHRİYELİ PİRİNÇ PİLAVI, \nAYRAN,\nREVANİ"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-08-06",
+    "content": "SEBZE ÇORBA,\nÇITIR TAVUK-PATATES,\nSPAGETTİ,\nKAVUN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-08-05",
+    "content": "TAVUKSUYU ÇORBA,\nPATATES OTURTMA,\nERİŞTE,\nKARPUZ"
+  },
+  {
+    "day": "CUMA",
     "date": "2024-08-02",
     "content": "EZOGELİN ÇORBA,\nHASANPAŞA KÖFTE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK"
   },
