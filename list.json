@@ -1,6 +1,31 @@
 [
   {
     "day": "CUMA",
+    "date": "2024-08-16",
+    "content": "TAVUKSUYU ÇORBA,\nETLİ TAZE FASULYE, \nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-08-15",
+    "content": "KREMALI DOMATES ÇORBA,\nSEBZELİ TAVUK SOTE,\nERİŞTE,\nREVANİ"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-08-14",
+    "content": "YAYLA ÇORBA,\nSALÇALI KÖFTE,\nMAKARNA,\nSÜTLAÇ"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-08-13",
+    "content": "MERCİMEK ÇORBA,\nPATLICAN KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKARPUZ"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-08-12",
+    "content": "EZOGELİN ÇORBA,                                                                                                                                                                                                                               \nTAVUK DÖNER-PATATES KIZARTMASI,\nSPAGETTİ,\nAYRAN"
+  },
+  {
+    "day": "CUMA",
     "date": "2024-08-09",
     "content": "EZOGELİN ÇORBA,\nORMAN KEBABI,\nSU BÖREĞİ,\nAYRAN"
   },
