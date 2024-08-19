@@ -1,5 +1,50 @@
 [
   {
+    "day": "PERŞEMBE",
+    "date": "2024-08-29",
+    "content": "YAYLA ÇORBA,\nKURU KÖFTE-PATATES KIZARTMASI,\nSPAGETTİ,\nKAVUN"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-08-28",
+    "content": "KREMALI MANTAR ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKARPUZ"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-08-27",
+    "content": "DOMATES ÇORBA,\nFIRIN  TAVUK-SALATA,\nERİŞTE,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-08-26",
+    "content": "MERCİMEK ÇORBA,\nKIYMALI TAZE FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKARPUZ"
+  },
+  {
+    "day": "CUMA",
+    "date": "2024-08-23",
+    "content": "MANTAR ÇORBA,\nBEZELYE KEBAP,\nSEBZELİ BULGUR PİLAVI,\nKAVUN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-08-22",
+    "content": "EZOGELİN ÇORBA,\nTAVUK DÖNER-SALATA,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-08-21",
+    "content": "ŞEHRİYE ÇORBA,\nİZMİR KÖFTE,\nSPAGETTİ,\nSÜTLAÇ"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-08-20",
+    "content": "DOMATES ÇORBA,\nÇITIR TAVUK-SALATA,\nERİŞTE, \nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-08-19",
+    "content": "MERCİMEK ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKARPUZ"
+  },
+  {
     "day": "CUMA",
     "date": "2024-08-16",
     "content": "TAVUKSUYU ÇORBA,\nETLİ TAZE FASULYE, \nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"

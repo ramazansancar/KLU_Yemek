@@ -1,5 +1,77 @@
 [
   {
+    "id": "3438",
+    "title": "PERŞEMBE",
+    "aciklama": "YAYLA ÇORBA,\nKURU KÖFTE-PATATES KIZARTMASI,\nSPAGETTİ,\nKAVUN\n",
+    "start": "2024-08-29 00:00:00",
+    "end": "2024-08-29 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3437",
+    "title": "ÇARŞAMBA",
+    "aciklama": "KREMALI MANTAR ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKARPUZ\n",
+    "start": "2024-08-28 00:00:00",
+    "end": "2024-08-28 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3436",
+    "title": "SALI",
+    "aciklama": "DOMATES ÇORBA,\nFIRIN  TAVUK-SALATA,\nERİŞTE,\nAYRAN\n",
+    "start": "2024-08-27 00:00:00",
+    "end": "2024-08-27 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3435",
+    "title": "PAZARTESİ",
+    "aciklama": "MERCİMEK ÇORBA,\nKIYMALI TAZE FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKARPUZ\n",
+    "start": "2024-08-26 00:00:00",
+    "end": "2024-08-26 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3434",
+    "title": "CUMA",
+    "aciklama": "MANTAR ÇORBA,\nBEZELYE KEBAP,\nSEBZELİ BULGUR PİLAVI,\nKAVUN\n",
+    "start": "2024-08-23 00:00:00",
+    "end": "2024-08-23 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3433",
+    "title": "PERŞEMBE",
+    "aciklama": "EZOGELİN ÇORBA,\nTAVUK DÖNER-SALATA,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN\n",
+    "start": "2024-08-22 00:00:00",
+    "end": "2024-08-22 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3432",
+    "title": "ÇARŞAMBA",
+    "aciklama": "ŞEHRİYE ÇORBA,\nİZMİR KÖFTE,\nSPAGETTİ,\nSÜTLAÇ\n",
+    "start": "2024-08-21 00:00:00",
+    "end": "2024-08-21 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3431",
+    "title": "SALI",
+    "aciklama": "DOMATES ÇORBA,\nÇITIR TAVUK-SALATA,\nERİŞTE, \nAYRAN\n",
+    "start": "2024-08-20 00:00:00",
+    "end": "2024-08-20 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3430",
+    "title": "PAZARTESİ",
+    "aciklama": "MERCİMEK ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKARPUZ\n",
+    "start": "2024-08-19 00:00:00",
+    "end": "2024-08-19 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3429",
     "title": "CUMA",
     "aciklama": "TAVUKSUYU ÇORBA,\nETLİ TAZE FASULYE, \nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN\n",
