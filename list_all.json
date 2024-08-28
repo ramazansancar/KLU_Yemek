@@ -1,5 +1,30 @@
 [
   {
+    "day": "CUMA",
+    "date": "2024-09-06",
+    "content": "MANTAR ÇORBA,\nORMAN KEBABI,\nBÖREK,\nBALLI BALIM TATLISI"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-09-05",
+    "content": "EZOGELİN ÇORBA,\nKARNIYARIK,\nGARTÜRLÜ PİRİNÇ PİLAVI,\nKARPUZ"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-09-04",
+    "content": "DOMATES ÇORBA,\nTAVUK IZGARA-PATATES,\nMAKARNA,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-09-03",
+    "content": "MERCİMEK ÇORBA,\nİZMİR KÖFTE,\nBULGUR PİLAVI,\nCACIK"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-09-02",
+    "content": "TAVUKSUYU ÇORBA,\nETLİ YAZ TÜRLÜSÜ,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
     "day": "PERŞEMBE",
     "date": "2024-08-29",
     "content": "YAYLA ÇORBA,\nKURU KÖFTE-PATATES KIZARTMASI,\nSPAGETTİ,\nKAVUN"
