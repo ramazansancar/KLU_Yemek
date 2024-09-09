@@ -1,5 +1,85 @@
 [
   {
+    "day": "PAZARTESİ",
+    "date": "2024-09-30",
+    "content": "MERCİMEK ÇORBA,\nKURU FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "CUMA",
+    "date": "2024-09-27",
+    "content": "MANTAR ÇORBA,\nBEZELYE KEBAP,\nSEBZELİ BULGUR PİLAVI,\nÜZÜM"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-09-26",
+    "content": "EZOGELİN ÇORBA,\nTAVUK DÖNER - SALATA,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-09-25",
+    "content": "ŞEHRİYE ÇORBA,\nİZMİR KÖFTE,\nSPAGETTİ,\nKEMALPAŞA TATLI"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-09-24",
+    "content": "DOMATES ÇORBA,\nŞİNİTZEL - SALATA,\nERİŞTE,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-09-23",
+    "content": "MERCİMEK ÇORBA,\nNOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nTURŞU"
+  },
+  {
+    "day": "CUMA",
+    "date": "2024-09-20",
+    "content": "TAVUKSUYU ÇORBA,\nORMAN KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nELMA"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-09-19",
+    "content": "KREMALI DOMATES ÇORBA,\nSEBZELİ TAVUK SOTE,\nSPAGETTİ,\nREVANİ"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-09-18",
+    "content": "DÜĞÜN ÇORBASI,\nKURU FASULYE,\nBULGUR PİLAVI,\nTURŞU"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-09-17",
+    "content": "MERCİMEK ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-09-16",
+    "content": "EZOGELİN ÇORBA,\nNUGGET - SALATA,\nMAKARNA,\nAYRAN"
+  },
+  {
+    "day": "CUMA",
+    "date": "2024-09-13",
+    "content": "EZOGELİN ÇORBA,\nTAVUK SOTE,\nSU BÖREĞİ,\nKOMPOSTO"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-09-12",
+    "content": "MERCİMEK ÇORBA,\nKARIŞIK IZGARA,\nŞEHRİYELİ PİRİNÇ PİLAVI\nAYRAN - REVANİ"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-09-11",
+    "content": "DOMATES ÇORBA,\nPATLICAN MUSAKKA,\nBİBERLİ BULGUR PİLAVI,\nKARPUZ"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-09-10",
+    "content": "SEBZE ÇORBA,\nKADINBUDU KÖFTE,\nSPAGETTİ,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-09-09",
+    "content": "TAVUKSUYU ÇORBA,\nKIYMALI TAZE FASULYE,\nERİŞTE,\nYOĞURT"
+  },
+  {
     "day": "CUMA",
     "date": "2024-09-06",
     "content": "MANTAR ÇORBA,\nİZMİR KÖFTE,\nBÖREK,\nBALLI BALIM TATLISI"
