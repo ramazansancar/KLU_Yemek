@@ -1,5 +1,173 @@
 [
   {
+    "id": "3510",
+    "title": "PERŞEMBE",
+    "aciklama": "TAVUKSUYU ÇORBA,\nBEŞAMEL SOSLU KIYMALI KARNABAHAR,\nMAKARNA,\nKEMALPAŞA TATLI\n",
+    "start": "2024-10-31 00:00:00",
+    "end": "2024-10-31 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3509",
+    "title": "ÇARŞAMBA",
+    "aciklama": "ŞEHRİYE ÇORBA,\nKADINBUDU KÖFTE - PÜRE,\nSPAGETTİ,\nMEYVE\n",
+    "start": "2024-10-30 00:00:00",
+    "end": "2024-10-30 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3508",
+    "title": "CUMA",
+    "aciklama": "MANTAR ÇORBA,\nBEZELYE KEBAP,\nMAKARNA,\nREVANİ\n",
+    "start": "2024-10-25 00:00:00",
+    "end": "2024-10-25 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3507",
+    "title": "PERŞEMBE",
+    "aciklama": "EZOGELİN ÇORBA,\nTAVUK SOTE,\nBULGUR PİLAVI,\nMEYVE\n",
+    "start": "2024-10-24 00:00:00",
+    "end": "2024-10-24 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3506",
+    "title": "ÇARŞAMBA",
+    "aciklama": "ŞEHRİYE ÇORBA,\nROSTO KÖFTE - PÜRE,\nERİŞTE,\nYOĞURT\n",
+    "start": "2024-10-23 00:00:00",
+    "end": "2024-10-23 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3505",
+    "title": "SALI",
+    "aciklama": "DOMATES ÇORBA,\nTAVUK DÖNER - SALATA,\nSPAGETTİ,\nAYRAN\n",
+    "start": "2024-10-22 00:00:00",
+    "end": "2024-10-22 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3504",
+    "title": "PAZARTESİ",
+    "aciklama": "MERCİMEK ÇORBA,\nNOHUT,\nPİRİNÇ PİLAVI,\nKEMALPAŞA TATLI\n",
+    "start": "2024-10-21 00:00:00",
+    "end": "2024-10-21 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3503",
+    "title": "CUMA",
+    "aciklama": "SEBZE ÇORBA,\nBAHÇIVAN KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nREVANİ\n",
+    "start": "2024-10-18 00:00:00",
+    "end": "2024-10-18 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3502",
+    "title": "PERŞEMBE",
+    "aciklama": "KREMALI DOMATES ÇORBA,\nKIŞ TÜRLÜSÜ,\nSPAGETTİ,\nAYRAN\n",
+    "start": "2024-10-17 00:00:00",
+    "end": "2024-10-17 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3501",
+    "title": "ÇARŞAMBA",
+    "aciklama": "DÜĞÜN ÇORBASI,\nPATLICAN MUSAKKA,\nBULGUR PİLAVI,\nYOĞURT\n",
+    "start": "2024-10-16 00:00:00",
+    "end": "2024-10-16 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3500",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBA,\nŞİNİTZEL - SALATA,\nERİŞTE,\nMEYVE\n",
+    "start": "2024-10-15 00:00:00",
+    "end": "2024-10-15 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3499",
+    "title": "PAZARTESİ",
+    "aciklama": "TAVUKSUYU ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nTURŞU\n",
+    "start": "2024-10-14 00:00:00",
+    "end": "2024-10-14 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3498",
+    "title": "CUMA",
+    "aciklama": "EZOGELİN ÇORBA,\nTAS KEBABI,\nSU BÖREĞİ,\nKOMPOSTO\n",
+    "start": "2024-10-11 00:00:00",
+    "end": "2024-10-11 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3497",
+    "title": "PERŞEMBE",
+    "aciklama": "MERCİMEK ÇORBA,\nTAVUK SOTE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN\n",
+    "start": "2024-10-10 00:00:00",
+    "end": "2024-10-10 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3496",
+    "title": "ÇARŞAMBA",
+    "aciklama": "DOMATES ÇORBA,\nKIYMALI TAZE FASULYE,\nBULGUR PİLAVI,\nYOĞURT\n",
+    "start": "2024-10-09 00:00:00",
+    "end": "2024-10-09 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3495",
+    "title": "SALI",
+    "aciklama": "SEBZE ÇORBA,\nKADINBUDU KÖFTE - SALATA,\nSPAGETTİ,\nMEYVE\n",
+    "start": "2024-10-08 00:00:00",
+    "end": "2024-10-08 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3494",
+    "title": "PAZARTESİ",
+    "aciklama": "MANTAR ÇORBA,\nORMAN KEBABI,\nBÖREK,\nBALLI BALIM TATLISI\n",
+    "start": "2024-10-07 00:00:00",
+    "end": "2024-10-07 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3493",
+    "title": "CUMA",
+    "aciklama": "MANTAR ÇORBA,\nORMAN KEBABI,\nBÖREK,\nBALLI BALIM TATLISI\n",
+    "start": "2024-10-04 00:00:00",
+    "end": "2024-10-04 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3492",
+    "title": "PERŞEMBE",
+    "aciklama": "MERCİMEK ÇORBA,\nPATLICAN MUSAKKA,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nYOĞURT\n",
+    "start": "2024-10-03 00:00:00",
+    "end": "2024-10-03 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3491",
+    "title": "ÇARŞAMBA",
+    "aciklama": "DOMATES ÇORBA,\nROSTO KÖFTE - PÜRE,\nSPAGETTİ,\nAYRAN\n",
+    "start": "2024-10-02 00:00:00",
+    "end": "2024-10-02 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3490",
+    "title": "SALI",
+    "aciklama": "EZOGELİN ÇORBA,\nNUGGET - SALATA,\nMAKARNA,\nMEYVE\n",
+    "start": "2024-10-01 00:00:00",
+    "end": "2024-10-01 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3489",
     "title": "PAZARTESİ",
     "aciklama": "MERCİMEK ÇORBA,\nKIYMALI TAZE FASULYE,\nBULGUR PİLAVI,\nAYRAN\n",
