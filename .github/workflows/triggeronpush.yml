@@ -30,10 +30,12 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     
-    - name: Install & Run & Deploy
-      run: npm i && node index.js && chmod +x deploy.sh && export token=${{ secrets.TOKEN }} && export username=${{secrets.USERNAME}} && export mail=${{secrets.MAIL}} && export name=${{secrets.NAME}} && ./deploy.sh
-      env:
-        CI: true
-        ACCESS_TOKEN: ${{ secrets.TOKEN }}
-        BASE_BRANCH: master
-        BRANCH: master
+    - name: Install & Run
+      run: npm i && node index.js
+
+    - name: Deploy
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+        commit_message: "Update Data"
+        file_pattern: "*.json"
