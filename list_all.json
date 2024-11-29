@@ -1,6 +1,31 @@
 [
   {
     "day": "CUMA",
+    "date": "2024-12-06",
+    "content": "KREMALI DOMATES ÇORBASI,\nKIYMALI FIRIN KARNABAHAR,\nSİGARA BÖREĞİ,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-12-05",
+    "content": "YAYLA ÇORBA,\nTAVUKLU ELBASAN TAVA,\nZEYTİNYAĞLI PIRASA,\nPUDİNG"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-12-04",
+    "content": "MERCİMEK ÇORBA,\nİZMİR KÖFTE,\nBULGUR PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-12-03",
+    "content": "EZOGELİN ÇORBA,\nNUGGET - SALATA,\nSOSLU MAKARNA,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-12-02",
+    "content": "DÜĞÜN ÇORBA,\nNOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nTURŞU"
+  },
+  {
+    "day": "CUMA",
     "date": "2024-11-29",
     "content": "ŞEHRİYE ÇORBA,\nARPA ŞEHRİYELİ ANKARA TAVA,\nKARNABAHAR KIZARTMA,\nTULUMBA TATLISI"
   },
