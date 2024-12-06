@@ -1,6 +1,31 @@
 [
   {
     "day": "CUMA",
+    "date": "2024-12-13",
+    "content": "EZOGELİN ÇORBA, ORMAN KEBABI, GÜL BÖREĞİ, MEYVE"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2024-12-12",
+    "content": "MERCİMEK ÇORBA, TAVUK DÖNER   SALATA, MISIRLI PİRİNÇ PİLAVI, AYRAN"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2024-12-11",
+    "content": "DOMATES ÇORBA, ROSTO KÖFTE   PÜRE, SOSLU MAKARNA, YOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2024-12-10",
+    "content": "SEBZE ÇORBA, KÖRİ SOSLU TAVUK SOTE, ERİŞTE, KEŞKÜL"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2024-12-09",
+    "content": "TAVUKSUYU ÇORBA, DOMATESLİ BİBERLİ KURU FASULYE, GARNİTÜRLÜ PİRİNÇ PİLAVI, TURŞU"
+  },
+  {
+    "day": "CUMA",
     "date": "2024-12-06",
     "content": "KREMALI DOMATES ÇORBASI,\nKIYMALI FIRIN KARNABAHAR,\nSİGARA BÖREĞİ,\nMEYVE"
   },
