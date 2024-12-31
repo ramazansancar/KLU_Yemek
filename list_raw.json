@@ -1,5 +1,21 @@
 [
   {
+    "id": "3580",
+    "title": "CUMA",
+    "aciklama": "KREMALI DOMATES ÇORBASI,\nİZMİR KÖFTE,\nARPA ŞEHRİYE PİLAVI,\nYOĞURT ",
+    "start": "2025-01-03 00:00:00",
+    "end": "2025-01-03 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3579",
+    "title": "PERŞEMBE ",
+    "aciklama": "SEBZE ÇORBA,\nTAVUK DÖNER - ELMA DİLİM PATATES,\nSOSLU MAKARNA,\nPUDİNG ",
+    "start": "2025-01-02 00:00:00",
+    "end": "2025-01-02 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3578",
     "title": "SALI",
     "aciklama": "MERCİMEK ÇORBA,\nŞİNİTZEL - SALATA,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN\n",
