@@ -1,6 +1,31 @@
 [
   {
     "day": "CUMA",
+    "date": "2025-01-17",
+    "content": "SEBZE ÇORBA,\nİSLİM KEBABI,\nARPA ŞEHRİYE PİLAVI,\nFIRIN SÜTLAÇ"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2025-01-16",
+    "content": "TARHANA ÇORBA,\nKADINBUDU KÖFTE - PÜRE,\nZEYİNYAĞLI PIRASA,\nPUDİNG"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2025-01-15",
+    "content": "EZOGELİN ÇORBA,\nBALIK IZGARA - SALATA,\nŞAKŞUKA,\nTAHİN HELVA"
+  },
+  {
+    "day": "SALI",
+    "date": "2025-01-14",
+    "content": "MERCİMEK ÇORBA,\nÇITIR BAGET - SALATA,\nBULGUR PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2025-01-13",
+    "content": "DÜĞÜN ÇORBA,\nLAHANA SARMA - YOĞURT,\nBÖREK,\nKABAK TATLISI"
+  },
+  {
+    "day": "CUMA",
     "date": "2025-01-10",
     "content": "SEBZE ÇORBA, ŞEHRİYELİ GÜVEÇ, KALEM BÖREĞİ, AYRAN"
   },
