@@ -1,5 +1,45 @@
 [
   {
+    "id": "3595",
+    "title": "CUMA",
+    "aciklama": "YAYLA ÇORBA,\nBAHÇIVAN KEBABI,\nMAKARNA,\nKABAK TATLISI",
+    "start": "2025-01-24 00:00:00",
+    "end": "2025-01-24 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3594",
+    "title": "PERŞEMBE",
+    "aciklama": "EZOGELİN ÇORBA,\nETLİ KIŞ TÜRLÜSÜ,\nBÖREK,\nAYRAN",
+    "start": "2025-01-23 00:00:00",
+    "end": "2025-01-23 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3593",
+    "title": "ÇARŞAMBA",
+    "aciklama": "ŞEHRİYE ÇORBA,\nİZMİR KÖFTE,\nERİŞTE,\nFIRIN SÜTLAÇ",
+    "start": "2025-01-22 00:00:00",
+    "end": "2025-01-22 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3592",
+    "title": "SALI",
+    "aciklama": "DOMATES ÇORBA,\nTAVUK SOTE,\nSPAGETTİ,\nAYRAN",
+    "start": "2025-01-21 00:00:00",
+    "end": "2025-01-21 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3591",
+    "title": "PAZARTESİ",
+    "aciklama": "MERCİMEK ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nPİRİNÇ PİLAVI,\nELMA",
+    "start": "2025-01-20 00:00:00",
+    "end": "2025-01-20 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3590",
     "title": "CUMA",
     "aciklama": "SEBZE ÇORBA,\nPATLICAN KEBABI,\nARPA ŞEHRİYE PİLAVI,\nFIRIN SÜTLAÇ\n",
