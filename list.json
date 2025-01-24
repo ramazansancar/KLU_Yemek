@@ -1,6 +1,31 @@
 [
   {
     "day": "CUMA",
+    "date": "2025-01-31",
+    "content": "SEBZE ÇORBA,\nÇITIR TAVUK - PATATES,\nKISIR,\nKEMALPAŞA TATLI"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2025-01-30",
+    "content": "ŞEHRİYE ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2025-01-29",
+    "content": "KAŞARLI DOMATES ÇORBA,\nEKŞİLİ KÖFTE,\nERİŞTE,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2025-01-28",
+    "content": "MERCİMEK ÇORBA,\nTAVUK ŞİŞ - SALATA,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2025-01-27",
+    "content": "DÜĞÜN ÇORBA,\nHAVUÇLU PATATESLİ BARBUNYA YEMEĞİ,\nBULGUR PİLAVI,\nPORTAKAL"
+  },
+  {
+    "day": "CUMA",
     "date": "2025-01-24",
     "content": "YAYLA ÇORBA,\nBAHÇIVAN KEBABI,\nBÖREK,\nKABAK TATLISI"
   },

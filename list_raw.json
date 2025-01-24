@@ -1,5 +1,45 @@
 [
   {
+    "id": "3600",
+    "title": "CUMA",
+    "aciklama": "SEBZE ÇORBA,\nÇITIR TAVUK - PATATES,\nKISIR,\nKEMALPAŞA TATLI\n",
+    "start": "2025-01-31 00:00:00",
+    "end": "2025-01-31 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3599",
+    "title": "PERŞEMBE",
+    "aciklama": "ŞEHRİYE ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK\n",
+    "start": "2025-01-30 00:00:00",
+    "end": "2025-01-30 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3598",
+    "title": "ÇARŞAMBA",
+    "aciklama": "KAŞARLI DOMATES ÇORBA,\nEKŞİLİ KÖFTE,\nERİŞTE,\nYOĞURT\n",
+    "start": "2025-01-29 00:00:00",
+    "end": "2025-01-29 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3597",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBA,\nTAVUK ŞİŞ - SALATA,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN\n",
+    "start": "2025-01-28 00:00:00",
+    "end": "2025-01-28 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3596",
+    "title": "PAZARTESİ",
+    "aciklama": "DÜĞÜN ÇORBA,\nHAVUÇLU PATATESLİ BARBUNYA YEMEĞİ,\nBULGUR PİLAVI,\nPORTAKAL\n",
+    "start": "2025-01-27 00:00:00",
+    "end": "2025-01-27 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3595",
     "title": "CUMA",
     "aciklama": "YAYLA ÇORBA,\nBAHÇIVAN KEBABI,\nBÖREK,\nKABAK TATLISI",
