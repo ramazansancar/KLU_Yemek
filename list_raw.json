@@ -1,5 +1,45 @@
 [
   {
+    "id": "3606",
+    "title": "CUMA",
+    "aciklama": "ERİŞTELİ YEŞİL MERCİMEK ÇORBASI,\nDOMATESLİ BİBERLİ NOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK\n",
+    "start": "2025-02-07 00:00:00",
+    "end": "2025-02-07 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3605",
+    "title": "PERŞEMBE",
+    "aciklama": "DOMATES ÇORBA,\nANKARA TAVA,\nZEYTİNYAĞLI PIRASA ,\nMANDALİNA\n",
+    "start": "2025-02-06 00:00:00",
+    "end": "2025-02-06 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3604",
+    "title": "ÇARŞAMBA",
+    "aciklama": "TOYGA ÇORBA,\nET DÖNER - SALATA,\nPEYNİRLİ GÜL BÖREĞİ,\nAYRAN\n",
+    "start": "2025-02-05 00:00:00",
+    "end": "2025-02-05 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3603",
+    "title": "SALI",
+    "aciklama": "HAVUÇLU ŞEHRİYELİ TAVUK ÇORBASI,\nKIRKLARELİ KÖFTE - PATATES,\nSOSLU MAKARNA,\nYOĞURT\n",
+    "start": "2025-02-04 00:00:00",
+    "end": "2025-02-04 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3602",
+    "title": "PAZARTESİ",
+    "aciklama": "YAYLA ÇORBASI,\nFIRIN TAVUK- FIRIN PATATES,\nSEBZELİ BULGUR PİLAVI,\nKIŞ SALATASI\n",
+    "start": "2025-02-03 00:00:00",
+    "end": "2025-02-03 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3600",
     "title": "CUMA",
     "aciklama": "SEBZE ÇORBA,\nÇITIR TAVUK - PATATES,\nKISIR,\nKEMALPAŞA TATLI\n",
