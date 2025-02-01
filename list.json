@@ -1,112 +1,27 @@
 [
   {
     "day": "CUMA",
-    "date": "2025-01-31",
-    "content": "SEBZE ÇORBA,\nÇITIR TAVUK - PATATES,\nKISIR,\nKEMALPAŞA TATLI"
+    "date": "2025-02-07",
+    "content": "ERİŞTELİ YEŞİL MERCİMEK ÇORBASI,\nDOMATESLİ BİBERLİ NOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK"
   },
   {
     "day": "PERŞEMBE",
-    "date": "2025-01-30",
-    "content": "ŞEHRİYE ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK"
+    "date": "2025-02-06",
+    "content": "DOMATES ÇORBA,\nANKARA TAVA,\nZEYTİNYAĞLI PIRASA ,\nMANDALİNA"
   },
   {
     "day": "ÇARŞAMBA",
-    "date": "2025-01-29",
-    "content": "KAŞARLI DOMATES ÇORBA,\nEKŞİLİ KÖFTE,\nERİŞTE,\nYOĞURT"
+    "date": "2025-02-05",
+    "content": "TOYGA ÇORBA,\nET DÖNER - SALATA,\nPEYNİRLİ GÜL BÖREĞİ,\nAYRAN"
   },
   {
     "day": "SALI",
-    "date": "2025-01-28",
-    "content": "MERCİMEK ÇORBA,\nTAVUK ŞİŞ - SALATA,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN"
+    "date": "2025-02-04",
+    "content": "HAVUÇLU ŞEHRİYELİ TAVUK ÇORBASI,\nKIRKLARELİ KÖFTE - PATATES,\nSOSLU MAKARNA,\nYOĞURT"
   },
   {
     "day": "PAZARTESİ",
-    "date": "2025-01-27",
-    "content": "DÜĞÜN ÇORBA,\nHAVUÇLU PATATESLİ BARBUNYA YEMEĞİ,\nBULGUR PİLAVI,\nPUDİNG"
-  },
-  {
-    "day": "CUMA",
-    "date": "2025-01-24",
-    "content": "YAYLA ÇORBA,\nBAHÇIVAN KEBABI,\nBÖREK,\nKABAK TATLISI"
-  },
-  {
-    "day": "PERŞEMBE",
-    "date": "2025-01-23",
-    "content": "EZOGELİN ÇORBA,\nTAVUK DÖNER   SALATA,\nMAKARNA,\nAYRAN"
-  },
-  {
-    "day": "ÇARŞAMBA",
-    "date": "2025-01-22",
-    "content": "ŞEHRİYE ÇORBA,\nİZMİR KÖFTE,\nERİŞTE,\nFIRIN SÜTLAÇ"
-  },
-  {
-    "day": "SALI",
-    "date": "2025-01-21",
-    "content": "DOMATES ÇORBA,\nTAVUK SOTE,\nSPAGETTİ,\nAYRAN"
-  },
-  {
-    "day": "PAZARTESİ",
-    "date": "2025-01-20",
-    "content": "MERCİMEK ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nPİRİNÇ PİLAVI,\nELMA"
-  },
-  {
-    "day": "CUMA",
-    "date": "2025-01-17",
-    "content": "SEBZE ÇORBA,\nPATLICAN KEBABI,\nARPA ŞEHRİYE PİLAVI,\nFIRIN SÜTLAÇ"
-  },
-  {
-    "day": "PERŞEMBE",
-    "date": "2025-01-16",
-    "content": "TARHANA ÇORBA,\nKADINBUDU KÖFTE - PÜRE,\nZEYİNYAĞLI PIRASA,\nKEŞKÜL"
-  },
-  {
-    "day": "ÇARŞAMBA",
-    "date": "2025-01-15",
-    "content": "EZOGELİN ÇORBA,\nBALIK IZGARA - SALATA,\nŞAKŞUKA,\nTAHİN HELVA"
-  },
-  {
-    "day": "SALI",
-    "date": "2025-01-14",
-    "content": "MERCİMEK ÇORBA,\nÇITIR BAGET - SALATA,\nBULGUR PİLAVI,\nYOĞURT"
-  },
-  {
-    "day": "PAZARTESİ",
-    "date": "2025-01-13",
-    "content": "DÜĞÜN ÇORBA,\nLAHANA SARMA - YOĞURT,\nBÖREK,\nKABAK TATLISI"
-  },
-  {
-    "day": "CUMA",
-    "date": "2025-01-10",
-    "content": "SEBZE ÇORBA, ŞEHRİYELİ GÜVEÇ, KALEM BÖREĞİ, AYRAN"
-  },
-  {
-    "day": "PERŞEMBE",
-    "date": "2025-01-09",
-    "content": "MERCİMEK ÇORBA, ŞİNİTZEL   SALATA, MISIRLI PİRİNÇ PİLAVI, TULUMBA TATLISI"
-  },
-  {
-    "day": "ÇARŞAMBA",
-    "date": "2025-01-08",
-    "content": "DOMATES ÇORBA, EKŞİLİ KÖFTE, MAKARNA, YOĞURT"
-  },
-  {
-    "day": "SALI",
-    "date": "2025-01-07",
-    "content": "EZOGELİN ÇORBA, SEBZELİ TAVUK SOTE, ERİŞTE, PUDİNG"
-  },
-  {
-    "day": "PAZARTESİ",
-    "date": "2025-01-06",
-    "content": "TAVUKSUYU ÇORBA, NOHUT, ŞEHRİYELİ PİRİNÇ PİLAVI, TURŞU"
-  },
-  {
-    "day": "CUMA",
-    "date": "2025-01-03",
-    "content": "KREMALI DOMATES ÇORBASI,\nİZMİR KÖFTE,\nARPA ŞEHRİYE PİLAVI,\nYOĞURT"
-  },
-  {
-    "day": "PERŞEMBE ",
-    "date": "2025-01-02",
-    "content": "SEBZE ÇORBA,\nTAVUK DÖNER - ELMA DİLİM PATATES,\nSOSLU MAKARNA,\nPUDİNG"
+    "date": "2025-02-03",
+    "content": "YAYLA ÇORBASI,\nFIRIN TAVUK- FIRIN PATATES,\nSEBZELİ BULGUR PİLAVI,\nKIŞ SALATASI"
   }
 ]
