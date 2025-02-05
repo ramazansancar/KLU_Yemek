@@ -27,4 +27,5 @@ bu adreslerdedir.
 ----------
 # Authors
 
-[_berkantkz_](https://berkantkz.me) [_ramazansancar_](https://www.ramazansancar.com.tr) 
+- [_berkantkz_](https://berkantkz.github.io/)
+- [_ramazansancar_](https://www.ramazansancar.com.tr) 
