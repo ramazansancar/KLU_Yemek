@@ -1,6 +1,81 @@
 [
   {
     "day": "CUMA",
+    "date": "2025-02-28",
+    "content": "DOMATES ÇORBASI,\nISPANAK GRATEN,\nSOSLU MAKARNA,\nELMA"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2025-02-27",
+    "content": "MANTAR ÇORBASI,\nARNAVUT CİĞERİ,\nBULGUR PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2025-02-26",
+    "content": "BROKOLİ ÇORBASI,\nBAHÇIVAN KEBABI,\nPATATESLİ BÖREK,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2025-02-25",
+    "content": "EZOGELİN ÇORBASI,\nROSTO KÖFTE - PÜRE,\nYOĞURTLU KARNABAHAR KIZARTMA,\nKALBURABASTI"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2025-02-24",
+    "content": "KIYMALI ŞEHRİYE ÇORBA,\nDOMATESLİ BİBERLİ NOHUT,\nPİRİNÇ PİLAVI,\nCACIK"
+  },
+  {
+    "day": "CUMA",
+    "date": "2025-02-21",
+    "content": "TARHANA ÇORBA,\nKABAK DOLMASI,\nPİLELİ BÖREK,\nYOĞURT"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2025-02-20",
+    "content": "MISIR ÇORBASI,\nORMAN KEBABI,\nARPA ŞEHRİYE PİLAVI,\nMANDALİNA"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2025-02-19",
+    "content": "KAŞARLI DOMATES ÇORBASI,\nEKŞİLİ KÖFTE,\nBOLONEZ SOSLU MAKARNA,\nBALLI BALIM TATLISI"
+  },
+  {
+    "day": "SALI",
+    "date": "2025-02-18",
+    "content": "YÖRÜK ÇORBASI,\nTAVUK DÖNER-PATATES,\nBULGUR PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2025-02-17",
+    "content": "DÜĞÜN ÇORBA,\nSEBZELİ BARBUNYA,\nFIRIN MAKARNA,\nTURŞU"
+  },
+  {
+    "day": "CUMA",
+    "date": "2025-02-14",
+    "content": "MERCİMEK ÇORBA,\nFIRINDA HAMSİ (PATATESLİ SOĞANLI),\nKIŞ SALATASI-ROKA,\nİRMİK HELVASI"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2025-02-13",
+    "content": "ŞAFAK ÇORBA,\nKARNABAHAR GRATEN,\nPATATESLİ BÖREK,\nPUDİNG"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2025-02-12",
+    "content": "ŞEHRİYE ÇORBASI,\nÇITIR TAVUK - PATATES,\nERİŞTE,\nPORTAKAL"
+  },
+  {
+    "day": "SALI",
+    "date": "2025-02-11",
+    "content": "KIRMIZI BİBER ÇORBASI,\nHASANPAŞA KÖFTE - PÜRE,\nŞEHRİYELİ PİRİNÇ PİLAVI, \nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2025-02-10",
+    "content": "TERBİYELİ TAVUK ÇORBASI,\nDOMATESLİ BİBERLİ KURU FASULYE,\nBULGUR PİLAVI,\nMOR DÜNYA SALATASI"
+  },
+  {
+    "day": "CUMA",
     "date": "2025-02-07",
     "content": "DÜĞÜN ÇORBASI,\nDOMATESLİ BİBERLİ NOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK"
   },
