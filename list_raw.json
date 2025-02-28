@@ -1,5 +1,165 @@
 [
   {
+    "id": "3643",
+    "title": "CUMA",
+    "aciklama": "BULGUR ÇORBASI,\nPATATESLİ HAVUÇLU PIRASA GRATEN,\nSOSLU MAKARNA,\nKEMALPAŞA TATLI\n",
+    "start": "2025-03-28 00:00:00",
+    "end": "2025-03-28 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3642",
+    "title": "PERŞEMBE",
+    "aciklama": "EZOGELİN ÇORBASI,\nTAVUK ŞİŞ - ELMA DİLİM PATATES,\nERİŞTE,\nAYRAN\n",
+    "start": "2025-03-27 00:00:00",
+    "end": "2025-03-27 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3641",
+    "title": "ÇARŞAMBA",
+    "aciklama": "MANTAR ÇORBASI,\nROSTO KÖFTE - PÜRE,\nBÖREK,\nCACIK\n",
+    "start": "2025-03-26 00:00:00",
+    "end": "2025-03-26 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3640",
+    "title": "SALI",
+    "aciklama": "EZOGELİN ÇORBASI,\nFIRIN TAVUK - PATATES,\nMAKARNA,\nELMA\n",
+    "start": "2025-03-25 00:00:00",
+    "end": "2025-03-25 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3639",
+    "title": "PAZARTESİ",
+    "aciklama": "KIYMALI ŞEHRİYE ÇORBA,\nDOMATESLİ BİBERLİ NOHUT,\nPİRİNÇ PİLAVI,\nTURŞU\n",
+    "start": "2025-03-24 00:00:00",
+    "end": "2025-03-24 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3638",
+    "title": "CUMA",
+    "aciklama": "MISIR ÇORBASI,\nBAHÇIVAN KEBABI,\nBULGUR PİLAVI,\nCACIK\n",
+    "start": "2025-03-21 00:00:00",
+    "end": "2025-03-21 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3637",
+    "title": "PERŞEMBE",
+    "aciklama": "MERCİMEK ÇORBASI,\nEKŞİLİ KÖFTE,\nBÖREK,\nYOĞURT\n",
+    "start": "2025-03-20 00:00:00",
+    "end": "2025-03-20 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3636",
+    "title": "ÇARŞAMBA",
+    "aciklama": "KAŞARLI DOMATES ÇORBASI,\nTAVUK DÖNER - ELMA DİLİM PATATES,\nSOSLU SPAGETTİ,\nAYRAN\n",
+    "start": "2025-03-19 00:00:00",
+    "end": "2025-03-19 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3635",
+    "title": "SALI",
+    "aciklama": "BROKOLİ ÇORBA,\nTAVUK KAVURMA,\nFIRIN MAKARNA,\nMEYVE\n",
+    "start": "2025-03-18 00:00:00",
+    "end": "2025-03-18 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3634",
+    "title": "PAZARTESİ",
+    "aciklama": "DÜĞÜN ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nPİRİNÇ PİLAVI,\nKEMALPAŞA TATLI\n",
+    "start": "2025-03-17 00:00:00",
+    "end": "2025-03-17 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3633",
+    "title": "CUMA",
+    "aciklama": "MERCİMEK ÇORBA,\nHAMSİ KIZARTMA,\nYEŞİL SALATA,\nTAHİN HELVA\n",
+    "start": "2025-03-14 00:00:00",
+    "end": "2025-03-14 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3632",
+    "title": "PERŞEMBE",
+    "aciklama": "EZOGELİN ÇORBA,\nTAVUK KAPAMA,\nZEYTİNYAĞLI PORTAKALLI KEREVİZ,\nPUDİNG\n",
+    "start": "2025-03-13 00:00:00",
+    "end": "2025-03-13 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3631",
+    "title": "ÇARŞAMBA",
+    "aciklama": "NOHUTLU ŞEHRİYE ÇORBASI,\nET DÖNER - ELMA DİLİM PATATES,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN\n",
+    "start": "2025-03-12 00:00:00",
+    "end": "2025-03-12 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3630",
+    "title": "SALI",
+    "aciklama": "KIRMIZI BİBER ÇORBASI,\nKADINBUDU KÖFTE - PATATES PÜRESİ,\nSPAGETTİ,\nMEYVE\n",
+    "start": "2025-03-11 00:00:00",
+    "end": "2025-03-11 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3629",
+    "title": "PAZARTESİ",
+    "aciklama": "TERBİYELİ TAVUK ÇORBASI,\nNOHUT,\nMISIRLI PİRİNÇ PİLAVI,\nHAVUÇ TARATOR\n",
+    "start": "2025-03-10 00:00:00",
+    "end": "2025-03-10 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3628",
+    "title": "CUMA",
+    "aciklama": "EZOGELİN ÇORBASI,\nANKARA TAVA,\nZEYTİNYAĞLI PIRASA, \nMANDALİNA\n",
+    "start": "2025-03-07 00:00:00",
+    "end": "2025-03-07 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3627",
+    "title": "PERŞEMBE",
+    "aciklama": "DOMATES ÇORBA,\nTAVUKLU BEZELYE,\nBULGUR PİLAVI,\nTULUMBA TATLISI\n",
+    "start": "2025-03-06 00:00:00",
+    "end": "2025-03-06 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3626",
+    "title": "ÇARŞAMBA",
+    "aciklama": "TOYGA ÇORBA,\nİZMİR KÖFTE,\nBÖREK,\nAYRAN\n\n",
+    "start": "2025-03-05 00:00:00",
+    "end": "2025-03-05 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3625",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBASI,\nŞİNİTZEL - ELMA DİLİM PATATES,\nSOSLU MAKARNA,\nYOĞURT\n",
+    "start": "2025-03-04 00:00:00",
+    "end": "2025-03-04 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3624",
+    "title": "PAZARTESİ",
+    "aciklama": "HAVUÇLU ŞEHRİYELİ TAVUK ÇORBASI,\nDOMATESLİ BİBERLİ KURU FASULYE,\nPİRİNÇ PİLAVI,\nTURŞU\n",
+    "start": "2025-03-03 00:00:00",
+    "end": "2025-03-03 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3621",
     "title": "CUMA",
     "aciklama": "DOMATES ÇORBASI,\nISPANAK GRATEN,\nSOSLU MAKARNA,\nMEYVE\n",
