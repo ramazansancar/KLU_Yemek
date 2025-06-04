@@ -1,5 +1,37 @@
 [
   {
+    "id": "3687",
+    "title": "CUMA",
+    "aciklama": "YAYLA ÇORBA,\nİZMİR KÖFTE,\nFIRIN MAKARNA,\nAYRAN\n",
+    "start": "2025-06-13 00:00:00",
+    "end": "2025-06-13 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3686",
+    "title": "PERŞEMBE",
+    "aciklama": "TAVUKSUYU ÇORBA,\nBİBER DOLMA,\nBÖREK,\nYOĞURT,",
+    "start": "2025-06-12 00:00:00",
+    "end": "2025-06-12 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3685",
+    "title": "ÇARŞAMBA",
+    "aciklama": "DOMATES ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK",
+    "start": "2025-06-11 00:00:00",
+    "end": "2025-06-11 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3684",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBA,\nTAVUK KAVURMA,\nMAKARNA,\nYOĞURT",
+    "start": "2025-06-10 00:00:00",
+    "end": "2025-06-10 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3683",
     "title": "ÇARŞAMBA",
     "aciklama": "TAVUKSUYU ÇORBA,\nPATLICAN MUSAKKA,\nPİRİNÇ PİLAVI,\nCACIK",
