@@ -1,5 +1,45 @@
 [
   {
+    "id": "3708",
+    "title": "CUMA",
+    "aciklama": "KIRMIZI BİBER ÇORBA,\nANKARA TAVA,\nKARIŞIK KIZARTMA - YOĞURT,\nKARPUZ\n",
+    "start": "2025-06-27 00:00:00",
+    "end": "2025-06-27 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3707",
+    "title": "PERŞEMBE",
+    "aciklama": "TAVUKSUYU ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT\n",
+    "start": "2025-06-26 00:00:00",
+    "end": "2025-06-26 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3706",
+    "title": "ÇARŞAMBA",
+    "aciklama": "BROKOLİ ÇORBA,\nKADINBUDU KÖFTE - SALATA,\nFIRIN MAKARNA,\nAYRAN\n",
+    "start": "2025-06-25 00:00:00",
+    "end": "2025-06-25 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3705",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBA,\nKABAK DOLMA - YOĞURT,\nSU BÖREĞİ,\nKARPUZ\n",
+    "start": "2025-06-24 00:00:00",
+    "end": "2025-06-24 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3704",
+    "title": "PAZARTESİ",
+    "aciklama": "KAŞARLI DOMATES ÇORBASI,\nTAVUK İNCİK - FIRIN PATATES,\nSOSLU SPAGETTİ,\nKAVUN\n\n",
+    "start": "2025-06-23 00:00:00",
+    "end": "2025-06-23 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3703",
     "title": "CUMA",
     "aciklama": "MISIR ÇORBA,\nKARNIYARIK,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT",
