@@ -1,8 +1,16 @@
 [
   {
-    "id": "3714",
+    "id": "3716",
     "title": "CUMA",
-    "aciklama": "KAŞARLI DOMATES ÇORBA,\nET SOTE,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN\n",
+    "aciklama": "KIRMIZI BİBER ÇORBA,\nANKARA TAVA,\nKARIŞIK KIZARTMA - YOĞURT,\nKARPUZ\n",
+    "start": "2025-06-27 00:00:00",
+    "end": "2025-06-27 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3715",
+    "title": "CUMA",
+    "aciklama": "MANTAR ÇORBA,\nIZGARA KÖFTE-SALATA,\nŞEHRİYELİ BULGUR PİLAVI,\nKAVUN\n",
     "start": "2025-07-04 00:00:00",
     "end": "2025-07-04 00:00:00",
     "allDay": "1"
@@ -10,7 +18,7 @@
   {
     "id": "3713",
     "title": "PERŞEMBE",
-    "aciklama": "KAŞARLI DOMATES ÇORBA,\nET SOTE,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN\n",
+    "aciklama": "EZOGELİN ÇORBA,\nBEŞAMEL SOSLU ISPANAK GRATEN,\nGÜL BÖREĞİ,\nKEMALPAŞA TATLI\n",
     "start": "2025-07-03 00:00:00",
     "end": "2025-07-03 00:00:00",
     "allDay": "1"
@@ -37,14 +45,6 @@
     "aciklama": "DÜĞÜN ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK\n",
     "start": "2025-06-30 00:00:00",
     "end": "2025-06-30 00:00:00",
-    "allDay": "1"
-  },
-  {
-    "id": "3708",
-    "title": "CUMA",
-    "aciklama": "KIRMIZI BİBER ÇORBA,\nANKARA TAVA,\nKARIŞIK KIZARTMA - YOĞURT,\nKARPUZ\n",
-    "start": "2025-06-27 00:00:00",
-    "end": "2025-06-27 00:00:00",
     "allDay": "1"
   },
   {
