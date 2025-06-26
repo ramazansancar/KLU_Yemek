@@ -1,5 +1,45 @@
 [
   {
+    "id": "3714",
+    "title": "CUMA",
+    "aciklama": "KAŞARLI DOMATES ÇORBA,\nET SOTE,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN\n",
+    "start": "2025-07-04 00:00:00",
+    "end": "2025-07-04 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3713",
+    "title": "PERŞEMBE",
+    "aciklama": "KAŞARLI DOMATES ÇORBA,\nET SOTE,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN\n",
+    "start": "2025-07-03 00:00:00",
+    "end": "2025-07-03 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3712",
+    "title": "ÇARŞAMBA",
+    "aciklama": "KAŞARLI DOMATES ÇORBA,\nET SOTE,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN\n",
+    "start": "2025-07-02 00:00:00",
+    "end": "2025-07-02 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3711",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBA,\nTAVUK ŞİŞ-ELMA DİLİM PATATES,\nSOSLU MAKARNA,\nKARPUZ\n",
+    "start": "2025-07-01 00:00:00",
+    "end": "2025-07-01 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3710",
+    "title": "PAZARTESİ",
+    "aciklama": "DÜĞÜN ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK\n",
+    "start": "2025-06-30 00:00:00",
+    "end": "2025-06-30 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3708",
     "title": "CUMA",
     "aciklama": "KIRMIZI BİBER ÇORBA,\nANKARA TAVA,\nKARIŞIK KIZARTMA - YOĞURT,\nKARPUZ\n",

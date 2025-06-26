@@ -1,6 +1,31 @@
 [
   {
     "day": "CUMA",
+    "date": "2025-07-04",
+    "content": "KAŞARLI DOMATES ÇORBA,\nET SOTE,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2025-07-03",
+    "content": "KAŞARLI DOMATES ÇORBA,\nET SOTE,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2025-07-02",
+    "content": "KAŞARLI DOMATES ÇORBA,\nET SOTE,\nGARNİTÜRLÜ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2025-07-01",
+    "content": "MERCİMEK ÇORBA,\nTAVUK ŞİŞ-ELMA DİLİM PATATES,\nSOSLU MAKARNA,\nKARPUZ"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2025-06-30",
+    "content": "DÜĞÜN ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK"
+  },
+  {
+    "day": "CUMA",
     "date": "2025-06-27",
     "content": "KIRMIZI BİBER ÇORBA,\nANKARA TAVA,\nKARIŞIK KIZARTMA - YOĞURT,\nKARPUZ"
   },
