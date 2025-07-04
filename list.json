@@ -1,5 +1,95 @@
 [
   {
+    "day": "PERŞEMBE",
+    "date": "2025-07-31",
+    "content": "MISIR ÇORBA,\nORMAN KEBABI,\nMEYHANE PİLAVI,\nCACIK"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2025-07-30",
+    "content": "MERCİMEK ÇORBA,\nKADINBUDU KÖFTE-SALATA,\nFIRIN MAKARNA,\nTULUMBA TATLISI"
+  },
+  {
+    "day": "SALI",
+    "date": "2025-07-29",
+    "content": "SEBZE ÇORBA,\nTAVUK KAVURMA,\nİMAMBAYILDI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2025-07-28",
+    "content": "LEBENİYE ÇORBA, \nDOMATESLİ BİBERLİ BARBUNYA,\nMANTI,\nKARPUZ"
+  },
+  {
+    "day": "CUMA",
+    "date": "2025-07-25",
+    "content": "ALACA ÇORBA,\nET DÖNER-ELMA DİLİM PATATES,\nERİŞTE,\nFIRIN SÜTLAÇ"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2025-07-24",
+    "content": "KÖYLÜ ÇORBA,\nPATLICAN OTURTMA,\nGÖKKUŞAĞI PİLAVI,\nKAVUN"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2025-07-23",
+    "content": "MENGEN ÇORBA,\nKÖFTELİ AVCI KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK"
+  },
+  {
+    "day": "SALI",
+    "date": "2025-07-22",
+    "content": "MAHLUTA ÇORBA, \nTAVUK  BİFTEK-SALATA,\nMÜCVER,\nYOĞURT"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2025-07-21",
+    "content": "YOĞURTLU BUĞDAY ÇORBA,\nETLİ TAZE FASULYE,\nYEŞİL MERCİMEKLİ BULGUR PİLAVI,\nMUHALLEBİ"
+  },
+  {
+    "day": "CUMA",
+    "date": "2025-07-18",
+    "content": "DÖRT KAŞIK ÇORBA,\nTEKİRDAĞ KÖFTE-SALATA,\nSOSLU SPAGETTİ,\nKARPUZ"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2025-07-17",
+    "content": "BROKOLİ ÇORBA,\nDOLMA-YOĞURT,\nGÜL BÖREĞİ,\nKOMPOSTO"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2025-07-16",
+    "content": "TUTMAÇ  ÇORBA,\nDAĞ KEKİKLİ TAVUK PİRZOLA-ELMA DİLİM PATATES,\nGÖKKUŞAĞI PİLAVI,\nPUDİNG"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2025-07-14",
+    "content": "TAVUKSUYU ÇORBA,\nDOMATESLİ BİBERLİ NOHUT,\nBULGUR PİLAVI,\nCACIK"
+  },
+  {
+    "day": "CUMA",
+    "date": "2025-07-11",
+    "content": "AYRAN ÇORBA (SOĞUK),\nDAĞ KEKİKLİ FIRIN TAVUK-ELMA DİLİM PATATES,\nZEYTİNYAĞLI TAZE FASULYE, \nBALLIBALIM"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2025-07-10",
+    "content": "ŞAFAK ÇORBA,\nTAS KEBABI,\nYAZ PİLAVI,\nKAVUN"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2025-07-09",
+    "content": "MERCİMEK ÇORBA,\nKIRKLARELİ KÖFTESİ-SALATA,\nKARIŞIK KIZARTMA, \nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2025-07-08",
+    "content": "TOYGA  ÇORBA,\nKÖRİ SOSLU TAVUK SOTE,\nMISIRLI PİRİNÇ PİLAVI,\nKARPUZ"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2025-07-07",
+    "content": "YAYLA ÇORBA,\nETLİ YAZ TÜRLÜSÜ,\nSU BÖREĞİ, \nKOMPOSTO"
+  },
+  {
     "day": "CUMA",
     "date": "2025-07-04",
     "content": "MANTAR ÇORBA,\nIZGARA KÖFTE-SALATA,\nŞEHRİYELİ BULGUR PİLAVI,\nKAVUN"

@@ -1,5 +1,149 @@
 [
   {
+    "id": "3797",
+    "title": "PERŞEMBE",
+    "aciklama": "MISIR ÇORBA,\nORMAN KEBABI,\nMEYHANE PİLAVI,\nCACIK\n",
+    "start": "2025-07-31 00:00:00",
+    "end": "2025-07-31 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3796",
+    "title": "ÇARŞAMBA",
+    "aciklama": "MERCİMEK ÇORBA,\nKADINBUDU KÖFTE-SALATA,\nFIRIN MAKARNA,\nTULUMBA TATLISI\n",
+    "start": "2025-07-30 00:00:00",
+    "end": "2025-07-30 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3795",
+    "title": "SALI",
+    "aciklama": "SEBZE ÇORBA,\nTAVUK KAVURMA,\nİMAMBAYILDI,\nAYRAN\n",
+    "start": "2025-07-29 00:00:00",
+    "end": "2025-07-29 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3794",
+    "title": "PAZARTESİ",
+    "aciklama": "LEBENİYE ÇORBA, \nDOMATESLİ BİBERLİ BARBUNYA,\nMANTI,\nKARPUZ\n",
+    "start": "2025-07-28 00:00:00",
+    "end": "2025-07-28 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3793",
+    "title": "CUMA",
+    "aciklama": "ALACA ÇORBA,\nET DÖNER-ELMA DİLİM PATATES,\nERİŞTE,\nFIRIN SÜTLAÇ\n",
+    "start": "2025-07-25 00:00:00",
+    "end": "2025-07-25 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3792",
+    "title": "PERŞEMBE",
+    "aciklama": "KÖYLÜ ÇORBA,\nPATLICAN OTURTMA,\nGÖKKUŞAĞI PİLAVI,\nKAVUN\n",
+    "start": "2025-07-24 00:00:00",
+    "end": "2025-07-24 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3791",
+    "title": "ÇARŞAMBA",
+    "aciklama": "MENGEN ÇORBA,\nKÖFTELİ AVCI KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK\n",
+    "start": "2025-07-23 00:00:00",
+    "end": "2025-07-23 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3790",
+    "title": "SALI",
+    "aciklama": "MAHLUTA ÇORBA, \nTAVUK  BİFTEK-SALATA,\nMÜCVER,\nYOĞURT\n",
+    "start": "2025-07-22 00:00:00",
+    "end": "2025-07-22 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3789",
+    "title": "PAZARTESİ",
+    "aciklama": "YOĞURTLU BUĞDAY ÇORBA,\nETLİ TAZE FASULYE,\nYEŞİL MERCİMEKLİ BULGUR PİLAVI,\nMUHALLEBİ\n",
+    "start": "2025-07-21 00:00:00",
+    "end": "2025-07-21 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3788",
+    "title": "CUMA",
+    "aciklama": "DÖRT KAŞIK ÇORBA,\nTEKİRDAĞ KÖFTE-SALATA,\nSOSLU SPAGETTİ,\nKARPUZ\n",
+    "start": "2025-07-18 00:00:00",
+    "end": "2025-07-18 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3787",
+    "title": "PERŞEMBE",
+    "aciklama": "BROKOLİ ÇORBA,\nDOLMA-YOĞURT,\nGÜL BÖREĞİ,\nKOMPOSTO\n",
+    "start": "2025-07-17 00:00:00",
+    "end": "2025-07-17 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3786",
+    "title": "ÇARŞAMBA",
+    "aciklama": "TUTMAÇ  ÇORBA,\nDAĞ KEKİKLİ TAVUK PİRZOLA-ELMA DİLİM PATATES,\nGÖKKUŞAĞI PİLAVI,\nPUDİNG\n",
+    "start": "2025-07-16 00:00:00",
+    "end": "2025-07-16 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3785",
+    "title": "PAZARTESİ",
+    "aciklama": "TAVUKSUYU ÇORBA,\nDOMATESLİ BİBERLİ NOHUT,\nBULGUR PİLAVI,\nCACIK\n",
+    "start": "2025-07-14 00:00:00",
+    "end": "2025-07-14 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3784",
+    "title": "CUMA",
+    "aciklama": "AYRAN ÇORBA (SOĞUK),\nDAĞ KEKİKLİ FIRIN TAVUK-ELMA DİLİM PATATES,\nZEYTİNYAĞLI TAZE FASULYE, \nBALLIBALIM\n",
+    "start": "2025-07-11 00:00:00",
+    "end": "2025-07-11 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3783",
+    "title": "PERŞEMBE",
+    "aciklama": "ŞAFAK ÇORBA,\nTAS KEBABI,\nYAZ PİLAVI,\nKAVUN\n",
+    "start": "2025-07-10 00:00:00",
+    "end": "2025-07-10 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3782",
+    "title": "ÇARŞAMBA",
+    "aciklama": "MERCİMEK ÇORBA,\nKIRKLARELİ KÖFTESİ-SALATA,\nKARIŞIK KIZARTMA, \nAYRAN\n",
+    "start": "2025-07-09 00:00:00",
+    "end": "2025-07-09 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3781",
+    "title": "SALI",
+    "aciklama": "TOYGA  ÇORBA,\nKÖRİ SOSLU TAVUK SOTE,\nMISIRLI PİRİNÇ PİLAVI,\nKARPUZ\n",
+    "start": "2025-07-08 00:00:00",
+    "end": "2025-07-08 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3780",
+    "title": "PAZARTESİ",
+    "aciklama": "YAYLA ÇORBA,\nETLİ YAZ TÜRLÜSÜ,\nSU BÖREĞİ, \nKOMPOSTO\n",
+    "start": "2025-07-07 00:00:00",
+    "end": "2025-07-07 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3716",
     "title": "CUMA",
     "aciklama": "KIRMIZI BİBER ÇORBA,\nANKARA TAVA,\nKARIŞIK KIZARTMA - YOĞURT,\nKARPUZ\n",
