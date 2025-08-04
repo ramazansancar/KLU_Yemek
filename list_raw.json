@@ -1,5 +1,157 @@
 [
   {
+    "id": "3819",
+    "title": "CUMA",
+    "aciklama": "MEHİR ÇORBASI,\nİSLİM KEBABI,\nSEBZELİ BULGUR PİLAVI,\nİRMİK HELVASI\n",
+    "start": "2025-08-29 00:00:00",
+    "end": "2025-08-29 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3818",
+    "title": "PERŞEMBE",
+    "aciklama": "MERCİMEK ÇORBA,\nARNAVUT CİĞERİ,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT\n",
+    "start": "2025-08-28 00:00:00",
+    "end": "2025-08-28 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3817",
+    "title": "ÇARŞAMBA",
+    "aciklama": "KAŞARLI DOMATES ÇORBASI,\nİÇLİ KÖFTE - PÜRE,\nHAVUÇ TARATOR,\nÜZÜM\n",
+    "start": "2025-08-27 00:00:00",
+    "end": "2025-08-27 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3816",
+    "title": "SALI",
+    "aciklama": "MISIR ÇORBASI,\nTAVUK ŞİŞ - SALATA,\nMAKARNA,\nKARPUZ\n",
+    "start": "2025-08-26 00:00:00",
+    "end": "2025-08-26 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3815",
+    "title": "PAZARTESİ",
+    "aciklama": "EZOGELİN ÇORBA,\nTAVUKLU BEZELYE,\nERİŞTE,\nPUDİNG\n",
+    "start": "2025-08-25 00:00:00",
+    "end": "2025-08-25 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3814",
+    "title": "CUMA",
+    "aciklama": "KIRMIZI BİBER ÇORBA,\nET SOTE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKEMALPAŞA TATLI\n",
+    "start": "2025-08-22 00:00:00",
+    "end": "2025-08-22 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3813",
+    "title": "PERŞEMBE",
+    "aciklama": "TAVUKSUYU ÇORBA,\nPATLICAN MUSAKKA,\nSEBZELİ BULGUR PİLAVI,\nYOĞURT\n",
+    "start": "2025-08-21 00:00:00",
+    "end": "2025-08-21 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3812",
+    "title": "ÇARŞAMBA",
+    "aciklama": "BROKOLİ ÇORBA,\nKADINBUDU KÖFTE - SALATA,\nFIRIN MAKARNA,\nAYRAN\n",
+    "start": "2025-08-20 00:00:00",
+    "end": "2025-08-20 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3811",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBA,\nTAVUK HAŞLAMA,\nERİŞTE,\nKARPUZ\n",
+    "start": "2025-08-19 00:00:00",
+    "end": "2025-08-19 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3810",
+    "title": "PAZARTESİ",
+    "aciklama": "TAVUKSUYU ÇORBASI,\nKURU FASULYE,\nMISIRLI PİRİNÇ PİLAVI,\nAYRAN\n",
+    "start": "2025-08-18 00:00:00",
+    "end": "2025-08-18 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3809",
+    "title": "CUMA",
+    "aciklama": "MISIR ÇORBASI,\nKARNIYARIK,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT\n",
+    "start": "2025-08-15 00:00:00",
+    "end": "2025-08-15 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3808",
+    "title": "PERŞEMBE",
+    "aciklama": "SEBZE ÇORBA,\nKIYMALI KAŞARLI PİDE,\nSALATA,\nAYRAN\n",
+    "start": "2025-08-14 00:00:00",
+    "end": "2025-08-14 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3807",
+    "title": "ÇARŞAMBA",
+    "aciklama": "KAŞARLI DOMATES ÇORBASI,\nKÖFTELİ AVCI KEBABI,\nMAKARNA,\nÜZÜM\n",
+    "start": "2025-08-13 00:00:00",
+    "end": "2025-08-13 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3806",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBASI,\nTAVUK DÖNER - SALATA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN\n",
+    "start": "2025-08-12 00:00:00",
+    "end": "2025-08-12 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3805",
+    "title": "PAZARTESİ",
+    "aciklama": "DÜĞÜN ÇORBA,\nETLİ YAZ TÜRLÜSÜ,\nMEYHANE PİLAVI,\nCACIK\n",
+    "start": "2025-08-11 00:00:00",
+    "end": "2025-08-11 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3804",
+    "title": "CUMA",
+    "aciklama": "KIRMIZI BİBER ÇORBASI,\nANKARA TAVA,\nKARIŞIK KIZARTMA,\nPUDİNG\n",
+    "start": "2025-08-08 00:00:00",
+    "end": "2025-08-08 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3803",
+    "title": "PERŞEMBE",
+    "aciklama": "AYRANAŞI ÇORBASI,\nKURU KÖFTE - PATATES KIZARTMASI,\nSPAGETTİ,\nKARPUZ\n",
+    "start": "2025-08-07 00:00:00",
+    "end": "2025-08-07 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3802",
+    "title": "ÇARŞAMBA",
+    "aciklama": "DOMATES ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK\n",
+    "start": "2025-08-06 00:00:00",
+    "end": "2025-08-06 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3801",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBA,\nFIRIN TAVUK - SALATA,\nARPA ŞEHRİYE PİLAVI,\nAYRAN\n",
+    "start": "2025-08-05 00:00:00",
+    "end": "2025-08-05 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3799",
     "title": "PAZARTESİ ",
     "aciklama": "YAYLA ÇORBASI,\nETLİ TAZE FASULYE,\nERİŞTE,\nKAVUN",
