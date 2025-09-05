@@ -1,5 +1,45 @@
 [
   {
+    "id": "3834",
+    "title": "CUMA",
+    "aciklama": "KIRMIZI BİBER ÇORBASI, ÇOBAN KAVURMA, ŞEH. PİRİNÇ PİLAVI, YOĞURT",
+    "start": "2025-09-12 00:00:00",
+    "end": "2025-09-12 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3833",
+    "title": "PERŞEMBE",
+    "aciklama": "DÜĞÜN ÇORBASI, ŞİNİTZEL-SALATA, SPAGETTİ, PUDİNG",
+    "start": "2025-09-11 00:00:00",
+    "end": "2025-09-11 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3832",
+    "title": "ÇARŞAMBA",
+    "aciklama": "DOMATES ÇORBASI, PATLICAN MUSAKKA, ŞEH. PİRİNÇ PİLAVI, CACIK",
+    "start": "2025-09-10 00:00:00",
+    "end": "2025-09-10 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3831",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBASI, TAVUKLU ELBASAN TAVA, ARPA ŞEHRİYE PİLAVI, AYRAN",
+    "start": "2025-09-09 00:00:00",
+    "end": "2025-09-09 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3830",
+    "title": "PAZARTESİ",
+    "aciklama": "YAYLA ÇORBASI, ETLİ TAZE FASULYE, ERİŞTE, MEYVE",
+    "start": "2025-09-08 00:00:00",
+    "end": "2025-09-08 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3829",
     "title": "CUMA",
     "aciklama": "TAVUKSUYU ÇORBA,\nKARIŞIK DOLMA-YOĞURT,\nSU BÖREĞİ,\nKARPUZ\n",
