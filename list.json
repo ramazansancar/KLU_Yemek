@@ -1,5 +1,40 @@
 [
   {
+    "day": "SALI",
+    "date": "2025-09-30",
+    "content": "MISIR ÇORBASI,\nFIRIN TAVUK BONFİLE - ELMA DİLİM PATATES,\nMAKARNA,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2025-09-29",
+    "content": "DÜĞÜN ÇORBA,\nHAVUÇLU PATATESLİ BARBUNYA YEMEĞİ,\nBULGUR PİLAVI,\nPUDİNG"
+  },
+  {
+    "day": "CUMA",
+    "date": "2025-09-26",
+    "content": "KIRMIZI BİBER ÇORBA,\nORMAN KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nMEYVE"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2025-09-25",
+    "content": "TAVUKSUYU ÇORBA,\nPATLICAN MUSAKKA,\nSEBZELİ BULGUR PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2025-09-24",
+    "content": "BROKOLİ ÇORBA,\nKADINBUDU KÖFTE - SALATA,\nFIRIN MAKARNA,\nMEYVE SUYU"
+  },
+  {
+    "day": "SALI",
+    "date": "2025-09-23",
+    "content": "MERCİMEK ÇORBA,\nTAVUK DÖNER - SALATA,\nSPAGETTİ,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2025-09-22",
+    "content": "TAVUKSUYU ÇORBASI,\nNOHUT,\nMISIRLI PİRİNÇ PİLAVI,\nKEMALPAŞA TATLI"
+  },
+  {
     "day": "CUMA",
     "date": "2025-09-19",
     "content": "MISIR ÇORBASI,\nBAHÇIVAN KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT"
