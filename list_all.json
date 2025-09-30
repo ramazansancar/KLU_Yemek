@@ -1,5 +1,20 @@
 [
   {
+    "day": "CUMA",
+    "date": "2025-10-03",
+    "content": "TAVUKSUYU ÇORBA,\nBAHÇIVAN KEBABI,\nSU BÖREĞİ,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2025-10-02",
+    "content": "DüĞÜN ÇORBA,\nKIYMALI TAZE FASULYE,\nERİŞTE,\nSÜTLÜ TATLI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2025-10-01",
+    "content": "MERCİMEK ÇORBA,\nKIRKLARELİ KÖFTESİ-ELMA DİLİM PATATES,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nMEYVE"
+  },
+  {
     "day": "SALI",
     "date": "2025-09-30",
     "content": "MISIR ÇORBASI,\nFIRIN TAVUK BONFİLE - ELMA DİLİM PATATES,\nMAKARNA,\nAYRAN"

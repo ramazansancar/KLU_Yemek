@@ -1,5 +1,29 @@
 [
   {
+    "id": "3898",
+    "title": "CUMA",
+    "aciklama": "TAVUKSUYU ÇORBA,\nBAHÇIVAN KEBABI,\nSU BÖREĞİ,\nAYRAN\n",
+    "start": "2025-10-03 00:00:00",
+    "end": "2025-10-03 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3897",
+    "title": "PERŞEMBE",
+    "aciklama": "DüĞÜN ÇORBA,\nKIYMALI TAZE FASULYE,\nERİŞTE,\nSÜTLÜ TATLI\n",
+    "start": "2025-10-02 00:00:00",
+    "end": "2025-10-02 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "3896",
+    "title": "ÇARŞAMBA",
+    "aciklama": "MERCİMEK ÇORBA,\nKIRKLARELİ KÖFTESİ-ELMA DİLİM PATATES,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nMEYVE\n",
+    "start": "2025-10-01 00:00:00",
+    "end": "2025-10-01 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "3885",
     "title": "SALI",
     "aciklama": "MISIR ÇORBASI,\nFIRIN TAVUK BONFİLE - ELMA DİLİM PATATES,\nMAKARNA,\nAYRAN\n",
