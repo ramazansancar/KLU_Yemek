@@ -106,7 +106,7 @@
   {
     "id": "3983",
     "title": "CUMA",
-    "aciklama": "KIRMIZI BİBER ÇORBA,\nANKARA TAVA,\nYOĞURTLU KARIŞIK KIZARTMA,\nMEYVE\n",
+    "aciklama": "KAŞARLI DOMATES ÇORBA,\nANKARA TAVA,\nYOĞURTLU KARIŞIK KIZARTMA,\nMEYVE\n",
     "start": "2025-12-12 00:00:00",
     "end": "2025-12-12 00:00:00",
     "allDay": "1"
@@ -114,7 +114,7 @@
   {
     "id": "3982",
     "title": "PERŞEMBE",
-    "aciklama": "EZOGELİN ÇORBA,\nPATLICAN MUSAKKA,\nNOHUTLU PİLAV,\nCACIK\n",
+    "aciklama": "EZOGELİN ÇORBA,\nPATATES OTURTMA,\nBÖREK,\nREVANİ \n",
     "start": "2025-12-11 00:00:00",
     "end": "2025-12-11 00:00:00",
     "allDay": "1"
@@ -122,7 +122,7 @@
   {
     "id": "3981",
     "title": "ÇARŞAMBA",
-    "aciklama": "TARHANA ÇORBA,\nEKŞİLİ KÖFTE - PATATES PÜRESİ,\nERİŞTE,\nYOĞURT\n",
+    "aciklama": "TARHANA ÇORBA,\nEKŞİLİ KÖFTE,\nFIRIN MAKARNA, \nAYRAN \n",
     "start": "2025-12-10 00:00:00",
     "end": "2025-12-10 00:00:00",
     "allDay": "1"
@@ -130,7 +130,7 @@
   {
     "id": "3980",
     "title": "SALI",
-    "aciklama": "MERCİMEK ÇORBA,\nÇITIR TAVUK - PATATES,\nSOSLU MAKARNA,\nAYRAN\n",
+    "aciklama": "MERCİMEK ÇORBA,\nMACAR KEBABI,\nBULGUR PİLAVI, \nTULUMBA TATLISI \n",
     "start": "2025-12-09 00:00:00",
     "end": "2025-12-09 00:00:00",
     "allDay": "1"
@@ -138,7 +138,7 @@
   {
     "id": "3979",
     "title": "PAZARTESİ",
-    "aciklama": "DÜĞÜN ÇORBA,\nNOHUT YEMEĞİ,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nTULUMBA TATLISI\n",
+    "aciklama": "DÜĞÜN ÇORBA,\nDOMATESLİ BİBERLİ NOHUT, \nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT \n",
     "start": "2025-12-08 00:00:00",
     "end": "2025-12-08 00:00:00",
     "allDay": "1"
@@ -146,7 +146,7 @@
   {
     "id": "3978",
     "title": "CUMA",
-    "aciklama": "MERCİMEK ÇORBA,\nKAĞIT KEBABI,\nSU BÖREĞİ,\nAYRAN\n",
+    "aciklama": "MERCİMEK ÇORBA,\nORMAN KEBABI,\nSU BÖREĞİ,\nAYRAN\n",
     "start": "2025-12-05 00:00:00",
     "end": "2025-12-05 00:00:00",
     "allDay": "1"
