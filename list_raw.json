@@ -2,7 +2,7 @@
   {
     "id": "3996",
     "title": "ÇARŞAMBA",
-    "aciklama": "SEBZE ÇORBA,\nKADINBUDU KÖFTE - SALATA,\nBÖREK,\nYOĞURT\n",
+    "aciklama": "SEBZE ÇORBA,\nKADINBUDU KÖFTE - SALATA,\nBÖREK,\nKOMPOSTO\n\n",
     "start": "2025-12-31 00:00:00",
     "end": "2025-12-31 00:00:00",
     "allDay": "1"
@@ -10,7 +10,7 @@
   {
     "id": "3995",
     "title": "SALI",
-    "aciklama": "TARHANA ÇORBA,\nTAVUK KÜLBASTI - PATATES,\nMEYHANE PİLAVI,\nAYRAN\n",
+    "aciklama": "TARHANA ÇORBA,\nETLİ KIŞ TÜRLÜSÜ,\nERİŞTE,\nAYRAN\n",
     "start": "2025-12-30 00:00:00",
     "end": "2025-12-30 00:00:00",
     "allDay": "1"
@@ -18,7 +18,7 @@
   {
     "id": "3994",
     "title": "PAZARTESİ",
-    "aciklama": "MANTAR ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nSÜTLÜ TATLI\n",
+    "aciklama": "MANTAR ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nTURŞU\n",
     "start": "2025-12-29 00:00:00",
     "end": "2025-12-29 00:00:00",
     "allDay": "1"
@@ -26,7 +26,7 @@
   {
     "id": "3993",
     "title": "CUMA",
-    "aciklama": "BROKOLİ ÇORBA,\nKARNIYARIK,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK\n",
+    "aciklama": "BROKOLİ ÇORBA,\nKARNIYARIK,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK\n\n",
     "start": "2025-12-26 00:00:00",
     "end": "2025-12-26 00:00:00",
     "allDay": "1"
@@ -34,7 +34,7 @@
   {
     "id": "3992",
     "title": "PERŞEMBE",
-    "aciklama": "TOYGA ÇORBA,\nBEŞAMEL SOSLU KIYMALI HAVUÇLU PIRASA,\nMAKARNA,\nKEMALPAŞA TATLISI\n",
+    "aciklama": "TOYGA ÇORBA,\nBEŞAMEL SOSLU KIYMALI HAVUÇLU PIRASA,\nERİŞTE,\nKEMALPAŞA TATLISI\n",
     "start": "2025-12-25 00:00:00",
     "end": "2025-12-25 00:00:00",
     "allDay": "1"
@@ -42,7 +42,7 @@
   {
     "id": "3991",
     "title": "ÇARŞAMBA",
-    "aciklama": "MISIR ÇORBA,\nHASANPAŞA KÖFTE - PATATES PÜRESİ,\nŞEHRİYELİ BULGUR PİLAVI,\nKOMPOSTO\n",
+    "aciklama": "MISIR ÇORBA,\nHASANPAŞA KÖFTE,\nARPA ŞEHRİYELİ PİLAV,\nYOĞURT\n",
     "start": "2025-12-24 00:00:00",
     "end": "2025-12-24 00:00:00",
     "allDay": "1"
@@ -50,7 +50,7 @@
   {
     "id": "3990",
     "title": "SALI",
-    "aciklama": "MERCİMEK ÇORBA,\nTAVUK CİĞER - ELMA DİLİM PATATES,\nERİŞTE,\nAYRAN\n",
+    "aciklama": "MERCİMEK ÇORBA,\nKARIŞIK DOLMA - YOĞURT,\nBÖREK,\nTULUMBA TATLISI\n",
     "start": "2025-12-23 00:00:00",
     "end": "2025-12-23 00:00:00",
     "allDay": "1"
@@ -58,7 +58,7 @@
   {
     "id": "3989",
     "title": "PAZARTESİ",
-    "aciklama": "TARHANA ÇORBA,\nHAVUÇLU PATATESLİ BARBUNYA,\nFIRIN MAKARNA,\nSÜTLÜ TATLI\n",
+    "aciklama": "TARHANA ÇORBA,\nHAVUÇLU PATATESLİ BARBUNYA,\nFIRIN MAKARNA,\nAYRAN\n",
     "start": "2025-12-22 00:00:00",
     "end": "2025-12-22 00:00:00",
     "allDay": "1"
@@ -66,7 +66,7 @@
   {
     "id": "3988",
     "title": "CUMA",
-    "aciklama": "MISIR ÇORBA,\nBAHÇIVAN KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nMEYVE\n",
+    "aciklama": "MISIR ÇORBA,\nBAHÇIVAN KEBABI,\nMEYHANE PİLAVI,\nMEYVE\n",
     "start": "2025-12-19 00:00:00",
     "end": "2025-12-19 00:00:00",
     "allDay": "1"
@@ -74,7 +74,7 @@
   {
     "id": "3987",
     "title": "PERŞEMBE",
-    "aciklama": "MERCİMEK ÇORBA,\nBEŞAMEL SOSLU KIYMALI ISPANAK,\nBÖREK,\nREVANİ\n",
+    "aciklama": "MERCİMEK ÇORBA,\nBEŞAMEL SOSLU KIYMALI KARNABAHAR,\nBÖREK,\nREVANİ\n",
     "start": "2025-12-18 00:00:00",
     "end": "2025-12-18 00:00:00",
     "allDay": "1"
@@ -82,7 +82,7 @@
   {
     "id": "3986",
     "title": "ÇARŞAMBA",
-    "aciklama": "YAYLA ÇORBA,\nİZMİR KÖFTE,\nFIRIN MAKARNA,\nYOĞURT\n",
+    "aciklama": "EZOGELİN ÇORBA,\nET DÖNER - SALATA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN\n",
     "start": "2025-12-17 00:00:00",
     "end": "2025-12-17 00:00:00",
     "allDay": "1"
@@ -90,7 +90,7 @@
   {
     "id": "3985",
     "title": "SALI",
-    "aciklama": "EZOGELİN ÇORBA,\nTAVUK DÖNER - SALATA,\nMEYHANE PİLAVI,\nAYRAN\n",
+    "aciklama": "YAYLA ÇORBA,\nİZMİR KÖFTE,\nMAKARNA,\nYOGURT\n\n",
     "start": "2025-12-16 00:00:00",
     "end": "2025-12-16 00:00:00",
     "allDay": "1"
@@ -98,7 +98,7 @@
   {
     "id": "3984",
     "title": "PAZARTESİ",
-    "aciklama": "TAVUKSUYU ÇORBASI,\nKIYMALI YEŞİL MERCİMEK YEMEĞİ,\nİÇ PİLAV,\nPUDİNG\n",
+    "aciklama": "MANTAR ÇORBASI,\nYEŞİL MERCİMEK,\nİÇ PİLAV,\nPUDİNG\n",
     "start": "2025-12-15 00:00:00",
     "end": "2025-12-15 00:00:00",
     "allDay": "1"
