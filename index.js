@@ -57,7 +57,7 @@ var website = "";
           if (getDay[index].start.includes(currentDate)) {
             out.push({
               day: item.title,
-              date: item.start.replace("00:00:00", "").trim(),
+              date: item.start.replace("00:00:00", "").replace("01:00:00", "").trim(),
               content: item.aciklama.trim(),
             });
           }
@@ -68,7 +68,7 @@ var website = "";
         getDay.forEach((item, index, array) => {
           out_all.push({
             day: item.title,
-            date: item.start.replace("00:00:00", "").trim(),
+            date: item.start.replace("00:00:00", "").replace("01:00:00", "").trim(),
             content: item.aciklama.trim(),
           });
         });
