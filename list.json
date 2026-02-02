@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "day": "CUMA",
+    "date": "2026-02-06",
+    "content": "SEBZE ÇORBA,\nTAS KEBABI,\nPİRİNÇ PİLAVI,\nMEYVE"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-02-05",
+    "content": "EZOGELİN ÇORBA,\nKARIŞIK DOLMA,\nBÖREK,\nYOĞURT"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-02-04",
+    "content": "TARHANA ÇORBA,\nEKŞİLİ KÖFTE,\nERİŞTE,\nPUDİNG"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-02-03",
+    "content": "MERCİMEK ÇORBA,\nÇITIR TAVUK-ELMA DİLİM PATATES,\nSOSLU MAKARNA,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-02-02",
+    "content": "MISIR ÇORBA,\nDOMATESLİ BİBERLİ NOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nŞEKERPARE"
+  }
+]

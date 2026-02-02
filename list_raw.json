@@ -1,5 +1,45 @@
 [
   {
+    "id": "4072",
+    "title": "CUMA",
+    "aciklama": "SEBZE ÇORBA,\nTAS KEBABI,\nPİRİNÇ PİLAVI,\nMEYVE\n",
+    "start": "2026-02-06 00:00:00",
+    "end": "2026-02-06 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4071",
+    "title": "PERŞEMBE",
+    "aciklama": "EZOGELİN ÇORBA,\nKARIŞIK DOLMA,\nBÖREK,\nYOĞURT\n",
+    "start": "2026-02-05 00:00:00",
+    "end": "2026-02-05 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4070",
+    "title": "ÇARŞAMBA",
+    "aciklama": "TARHANA ÇORBA,\nEKŞİLİ KÖFTE,\nERİŞTE,\nPUDİNG\n",
+    "start": "2026-02-04 00:00:00",
+    "end": "2026-02-04 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4069",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBA,\nÇITIR TAVUK-ELMA DİLİM PATATES,\nSOSLU MAKARNA,\nAYRAN\n",
+    "start": "2026-02-03 00:00:00",
+    "end": "2026-02-03 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4068",
+    "title": "PAZARTESİ",
+    "aciklama": "MISIR ÇORBA,\nDOMATESLİ BİBERLİ NOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nŞEKERPARE\n",
+    "start": "2026-02-02 00:00:00",
+    "end": "2026-02-02 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "4022",
     "title": "CUMA",
     "aciklama": "TAVUK SUYU ÇORBA,\nORMAN KEBABI,\nMISIRLI PİRİNÇ PİLAV,\nMEYVE\n",
