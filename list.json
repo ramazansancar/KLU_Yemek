@@ -1,6 +1,81 @@
 [
   {
     "day": "CUMA",
+    "date": "2026-02-27",
+    "content": "ŞEHRİYE ÇORBA,\nORMAN KEBABI,\nMISIRLI PİRİNÇ PİLAV,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-02-26",
+    "content": "EZOGELİN ÇORBA,\nKIYMALI ISPANAK-YOĞURT,\nBÖREK,\nTULUMBA TATLI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-02-25",
+    "content": "TARHANA ÇORBA,\nROSTO KÖFTE-PATATES PÜRE,\nERİŞTE,\nMEYVE"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-02-24",
+    "content": "MERCİMEK ÇORBA,\nTAVUK SOTE,\nFIRIN MAKARNA,\nSÜTLÜ TATLI"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-02-23",
+    "content": "TAVUK SUYU ÇORBA,\nDOMATESLİ BİBERLİ KURU FASULYE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-02-20",
+    "content": "KAŞARLI DOMATES ÇORBA,\nANKARA TAVA,\nYOĞURTLU KARIŞIK KIZARTMA,\nMEYVE"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-02-19",
+    "content": "MERCİMEK ÇORBA,\nKIYMALI KARNABAHAR GRATEN,\nPİRİNÇ PİLAVI,\nSÜTLÜ TATLI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-02-18",
+    "content": "SEBZE ÇORBA,\nİZMİR KÖFTE,\nMAKARNA,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-02-17",
+    "content": "DÜĞÜN ÇORBA,\nTAVUK ARNAVUT CİĞERİ,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-02-16",
+    "content": "EZOGELİN ÇORBA,\nHAVUÇLU PATATESLİ BARBUNYA,\nBÖREK,\nKALBURABASTI"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-02-13",
+    "content": "KÖYLÜ ÇORBA,\nÇİFTLİK KEBABI,\nARPA ŞEHRİYE PİLAVI,\nMEYVE"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-02-12",
+    "content": "MERCİMEK ÇORBA,\nPATATES OTURTMA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nSÜTLÜ TATLI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-02-11",
+    "content": "MANTAR ÇORBA,\nKADINBUDU KÖFTE-ELMA DİLİM PATATES,\nBÖREK,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-02-10",
+    "content": "DOMATESLİ ŞEHRİYE ÇORBA,\nTAVUK DÖNER-SALATA,\nPİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-02-09",
+    "content": "TAVUK SUYU ÇORBA,\nYEŞİL MERCİMEK,\nFIRIN MAKARNA,\nİRMİK HELVA"
+  },
+  {
+    "day": "CUMA",
     "date": "2026-02-06",
     "content": "SEBZE ÇORBA,\nTAS KEBABI,\nPİRİNÇ PİLAVI,\nMEYVE"
   },
