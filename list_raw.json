@@ -1,5 +1,29 @@
 [
   {
+    "id": "4136",
+    "title": "CUMA",
+    "aciklama": "SEBZE ÇORBA,\nORMAN KEBABI,\nMISIRLI PİRİNÇ PİLAV,\nYOĞURT\n",
+    "start": "2026-04-03 00:00:00",
+    "end": "2026-04-03 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4135",
+    "title": "PERŞEMBE",
+    "aciklama": "EZOGELİN ÇORBA,\nKARIŞIK DOLMA - YOĞURT,\nBÖREK,\nMEYVE\n",
+    "start": "2026-04-02 00:00:00",
+    "end": "2026-04-02 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4134",
+    "title": "ÇARŞAMBA",
+    "aciklama": "MERCİMEK ÇORBA,\nİZMİR KÖFTE,\nARPA ŞEHRİYE PİLAVI,\nPUDİNG\n",
+    "start": "2026-04-01 00:00:00",
+    "end": "2026-04-01 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "4133",
     "title": "SALI",
     "aciklama": "TARHANA ÇORBA,\nTAVUK KÜLBASTI - ELMA DİLİM PATATES,\nERİŞTE,\nYOĞURT\n",

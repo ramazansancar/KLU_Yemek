@@ -1,5 +1,20 @@
 [
   {
+    "day": "CUMA",
+    "date": "2026-04-03",
+    "content": "SEBZE ÇORBA,\nORMAN KEBABI,\nMISIRLI PİRİNÇ PİLAV,\nYOĞURT"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-04-02",
+    "content": "EZOGELİN ÇORBA,\nKARIŞIK DOLMA - YOĞURT,\nBÖREK,\nMEYVE"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-04-01",
+    "content": "MERCİMEK ÇORBA,\nİZMİR KÖFTE,\nARPA ŞEHRİYE PİLAVI,\nPUDİNG"
+  },
+  {
     "day": "SALI",
     "date": "2026-03-31",
     "content": "TARHANA ÇORBA,\nTAVUK KÜLBASTI - ELMA DİLİM PATATES,\nERİŞTE,\nYOĞURT"
