@@ -1,5 +1,95 @@
 [
   {
+    "day": "PERŞEMBE",
+    "date": "2026-04-30",
+    "content": "MISIR ÇORBA,\nANKARA TAVA,\nYOĞURTLU KARIŞIK KIZARTMA,\nPUDİNG"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-04-29",
+    "content": "MERCİMEK ÇORBA,\nSEBZELİ MİSKET KÖFTE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-04-28",
+    "content": "TARHANA ÇORBA,\nTAVUK KÜLBASTI - ELMA DİLİM PATATES,\nERİŞTE,\nYOĞURT"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-04-27",
+    "content": "DÜĞÜN ÇORBA,\nHAVUÇLU PATATES BARBUNYA,\nBÖREK,\nŞEKERPARE"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-04-24",
+    "content": "SEBZE ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAV,\nCACIK"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-04-22",
+    "content": "MERCİMEK ÇORBA,\nÇITIR TAVUK - SALATA,\nERİŞTE,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-04-21",
+    "content": "KIRMIZI BİBER ÇORBA,\nKİLİS TAVA - PÜRE,\nMAKARNA,\nPUDİNG"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-04-20",
+    "content": "DOMATES ÇORBA,\nGORDON BLUE - SALATA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nTULUMBA TATLI"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-04-17",
+    "content": "KREMALI MANTAR ÇORBA,\nTAS KEBABI,\nPİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-04-16",
+    "content": "MERCİMEK ÇORBA,\nPATATES OTURTMA,\nBÖREK,\nSÜTLÜ TATLI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-04-15",
+    "content": "DOMMATES ÇORBA,\nNUGGET - SALATA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-04-14",
+    "content": "BROKOLİ ÇORBA,\nKADINBUDU KÖFTE - PÜRE,\nFIRIN MAKARNA,\nYOĞURT"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-04-13",
+    "content": "MISIR ÇORBA,\nETLİ TÜRLÜ,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKABAK TATLISI"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-04-10",
+    "content": "MISIR ÇORBA,\nETLİ TÜRLÜ,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nKABAK TATLISI"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-04-09",
+    "content": "EZOGELİN ÇORBA,\nTAVUK ARNAVUT CİĞERİ,\nERİŞTE,\nYOĞURT"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-04-08",
+    "content": "DOMATESLİ ŞEHRİYE ÇORBA,\nŞİNİTZEL - SALATA,\nZERDEÇALLI KALEM KESME MAKARNA,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-04-07",
+    "content": "MERCİMEK ÇORBA,\nHAMBURGER,\nPATATES KIZARTMASI,\nMEYVE SUYU"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-04-06",
+    "content": "DÜĞÜN ÇORBA,\nNOHUT,\nPİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
     "day": "CUMA",
     "date": "2026-04-03",
     "content": "SEBZE ÇORBA,\nORMAN KEBABI,\nMISIRLI PİRİNÇ PİLAV,\nYOĞURT"
