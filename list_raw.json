@@ -1,5 +1,45 @@
 [
   {
+    "id": "4178",
+    "title": "CUMA",
+    "aciklama": "YOĞURT ÇORBA,\nTAS KEBABI,\nPİRİNÇ PİLAVI,\nYOĞURT\n",
+    "start": "2026-05-08 00:00:00",
+    "end": "2026-05-08 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4177",
+    "title": "PERŞEMBE",
+    "aciklama": "MERCİMEK ÇORBA,\nKIYMALI BEZELYE,\nBÖREK,\nREVANİ\n",
+    "start": "2026-05-07 00:00:00",
+    "end": "2026-05-07 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4176",
+    "title": "ÇARŞAMBA",
+    "aciklama": "DOMATES ÇORBA,\nTAVUK SOTE,\nERİŞTE,\nAYRAN\n",
+    "start": "2026-05-06 00:00:00",
+    "end": "2026-05-06 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4175",
+    "title": "SALI",
+    "aciklama": "MISIR ÇORBA,\nİZMİR KÖFTE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nPUDİNG\n",
+    "start": "2026-05-05 00:00:00",
+    "end": "2026-05-05 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4174",
+    "title": "PAZARTESİ",
+    "aciklama": "SEBZE ÇORBA,\nTAVUK DÖNER-SALATA,\nMAKARNA,\nAYRAN\n",
+    "start": "2026-05-04 00:00:00",
+    "end": "2026-05-04 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "4154",
     "title": "PERŞEMBE",
     "aciklama": "MISIR ÇORBA,\nANKARA TAVA,\nYOĞURTLU KARIŞIK KIZARTMA,\nPUDİNG\n",

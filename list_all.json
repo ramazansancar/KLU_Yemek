@@ -1,5 +1,30 @@
 [
   {
+    "day": "CUMA",
+    "date": "2026-05-08",
+    "content": "YOĞURT ÇORBA,\nTAS KEBABI,\nPİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-05-07",
+    "content": "MERCİMEK ÇORBA,\nKIYMALI BEZELYE,\nBÖREK,\nREVANİ"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-05-06",
+    "content": "DOMATES ÇORBA,\nTAVUK SOTE,\nERİŞTE,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-05-05",
+    "content": "MISIR ÇORBA,\nİZMİR KÖFTE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nPUDİNG"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-05-04",
+    "content": "SEBZE ÇORBA,\nTAVUK DÖNER-SALATA,\nMAKARNA,\nAYRAN"
+  },
+  {
     "day": "PERŞEMBE",
     "date": "2026-04-30",
     "content": "MISIR ÇORBA,\nANKARA TAVA,\nYOĞURTLU KARIŞIK KIZARTMA,\nPUDİNG"
