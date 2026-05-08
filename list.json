@@ -1,6 +1,51 @@
 [
   {
     "day": "CUMA",
+    "date": "2026-05-22",
+    "content": "DOMATES ÇORBA,\nANKARA TAVA,\nYOĞURTLU KARIŞIK KIZARTMA,\nMEYVE"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-05-21",
+    "content": "MERCİMEK ÇORBA,\nPATATES OTURTMA,\nERİŞTE,\nAYRAN"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-05-20",
+    "content": "SEBZE ÇORBA,\nFIRIN TAVUK-ELMA DİLİM PATATES,\nMAKARNA,\nPUDİNG"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-05-18",
+    "content": "TAVUK SUYU ÇORBA,\nNOHUT,\nPİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-05-15",
+    "content": "DÜĞÜN ÇORBA,\nKAĞIT KEBABI,\nBULGUR PİLAVI,\nKEMALPAŞA TATLI"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-05-14",
+    "content": "TARHANA ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-05-13",
+    "content": "ŞEHRİYE ÇORBA,\nTAVUK KÜLBASTI-ELMA DİLİM PATATES,\nMAKARNA,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-05-12",
+    "content": "MERCİMEK ÇORBA,\nIZGARA KÖFTE-ELMA DİLİM PATATES,\nPİLAV,\nYOĞURT"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-05-11",
+    "content": "MANTAR ÇORBA,\nGORDON BLUE-SALATA,\nERİŞTE,\nPUDİNG"
+  },
+  {
+    "day": "CUMA",
     "date": "2026-05-08",
     "content": "MERCİMEK ÇORBA,\nKIYMALI BEZELYE,\nBÖREK,\nREVANİ"
   },
