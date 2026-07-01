@@ -1,5 +1,115 @@
 [
   {
+    "day": "CUMA",
+    "date": "2026-07-31",
+    "content": "MERCİMEK ÇORBA,\nTAVUK KAPAMA,\nYOĞURTLU BİBER KIZARTMA,\nKARPUZ"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-07-30",
+    "content": "EZOGELİN ÇORBA,\nKIYMALI BEZELYE,\nBÖREK,\nİRMİK HELVA"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-07-29",
+    "content": "YOĞURT ÇORBA,\nIZGARA KÖFTE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-07-28",
+    "content": "TARHANA ÇORBA,\nSEBZELİ TAVUK SARMA,\nBULGUR PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-07-27",
+    "content": "DÜĞÜN ÇORBA,\nHAVUÇLU PATATESLİ BARBUNYA,\nFIRIN MAKARNA,\nSÜTLAÇ"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-07-24",
+    "content": "MISIR ÇORBA,\nTAS KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAV,\nYOĞURT"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-07-23",
+    "content": "MERCİMEK ÇORBA,\nKIYMALI PİDE,\nSALATA,\nAYRAN"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-07-22",
+    "content": "YAYLA ÇORBA,\nTAVUK ŞİŞ - ELMA DİLİM PATATES,\nMAKARNA,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-07-21",
+    "content": "DOMATESLİ ŞEHRİYE ÇORBA,\nKADINBUDU KÖFTE,\nBÖREK,\nSÜTLÜ TATLI"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-07-20",
+    "content": "SEBZE ÇORBA,\nNOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-07-17",
+    "content": "17.07.2026\nDOMATES ÇORBA,\nANKARA TAVA,\nMÜCVER,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-07-16",
+    "content": "MISIR ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-07-14",
+    "content": "SEBZE ÇORBA,\nHASANPAŞA KÖFTE,\nPİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-07-13",
+    "content": "TAVUK SUYU ÇORBA,\nKURU FASULYE,\nPİRİNÇ PİLAVI,\nKADAYIF"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-07-10",
+    "content": "YOĞURT ÇORBA,\nET KAVURMA,\nPİRİNÇ PİLAVI,\nŞEKERPARE"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-07-09",
+    "content": "DOMATES ÇORBA,\nKIYMALI BİBER DOLMA,\nBÖREK,\nCACIK"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-07-08",
+    "content": "MERCİMEK ÇORBA,\nTAVUK ARNAVUT CİĞERİ,\nERİŞTE,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-07-07",
+    "content": "TARHANA ÇORBA,\nIZGARA KÖFTE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-07-06",
+    "content": "TAVUK SUYU ÇORBA,\nYEŞİL MERCİMEK,\nFIRIN MAKARNA,\nSÜTLAÇ"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-07-03",
+    "content": "MANTAR ÇORBA,\nORMAN KEBABI,\nERİŞTE,\nİRMİK HELVA"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-07-02",
+    "content": "ŞEHRİYE ÇORBA,\nKARNIYARIK,\nPİRİNÇ PİLAVI,\nCACIK"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-07-01",
+    "content": "MERCİMEK ÇORBA,\nEKŞİLİ KÖFTE,\nBÖREK,\nREVANİ"
+  },
+  {
     "day": "SALI",
     "date": "2026-06-30",
     "content": "TARHANA ÇORBA,\nTAVUK ŞİŞ-ELMA DİLİM PATATES,\nBULGUR PİLAVI,\nAYRAN"
