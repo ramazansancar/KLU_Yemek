@@ -1,5 +1,85 @@
 [
   {
+    "id": "4302",
+    "title": "CUMA",
+    "aciklama": "YOĞURT ÇORBA,\nKAĞIT KEBABI,\nPİRİNÇ PİLAVI,\nKAVUN\n",
+    "start": "2026-08-14 00:00:00",
+    "end": "2026-08-14 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4301",
+    "title": "PERŞEMBE",
+    "aciklama": "DOMATES ÇORBA,\nPATATES OTURTMA,\nBÖREK,\nSÜTLAÇ\n",
+    "start": "2026-08-13 00:00:00",
+    "end": "2026-08-13 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4300",
+    "title": "ÇARŞAMBA",
+    "aciklama": "MERCİMEK ÇORBA,\nÇITIR TAVUK-ELMA DİLİM PATATES,\nERİŞTE,\nAYRAN\n",
+    "start": "2026-08-12 00:00:00",
+    "end": "2026-08-12 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4299",
+    "title": "SALI",
+    "aciklama": "TARHANA ÇORBA,\nİZMİR KÖFTE,\nFIRIN MAKARNA,\nYOĞURT\n",
+    "start": "2026-08-11 00:00:00",
+    "end": "2026-08-11 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4298",
+    "title": "PAZARTESİ",
+    "aciklama": "DÜĞÜN  ÇORBA,\nKURU FASULYE,\nPİRİNÇ PİLAVI,\nKADAYIF\n",
+    "start": "2026-08-10 00:00:00",
+    "end": "2026-08-10 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4297",
+    "title": "CUMA",
+    "aciklama": "MANTAR ÇORBA,\nORMAN KEBABI,\nERİŞTE,\nİRMİK HELVA\n",
+    "start": "2026-08-07 00:00:00",
+    "end": "2026-08-07 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4296",
+    "title": "PERŞEMBE",
+    "aciklama": "ŞEHRİYE ÇORBA,\nKARNIYARIK,\nPİRİNÇ PİLAVI,\nCACIK\n",
+    "start": "2026-08-06 00:00:00",
+    "end": "2026-08-06 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4295",
+    "title": "ÇARŞAMBA",
+    "aciklama": "MERCİMEK ÇORBA,\nEKŞİLİ KÖFTE,\nBÖREK,\nREVANİ\n",
+    "start": "2026-08-05 00:00:00",
+    "end": "2026-08-05 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4294",
+    "title": "SALI",
+    "aciklama": "MERCİMEK ÇORBA,\nTAVUK ARNAVUT CİĞERİ,\nERİŞTE,\nYOĞURT\n",
+    "start": "2026-08-04 00:00:00",
+    "end": "2026-08-04 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4293",
+    "title": "PAZARTESİ",
+    "aciklama": "SEBZE ÇORBA,\nNOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN\n",
+    "start": "2026-08-03 00:00:00",
+    "end": "2026-08-03 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "4231",
     "title": "CUMA",
     "aciklama": "MERCİMEK ÇORBA,\nTAVUK KAPAMA,\nYOĞURTLU BİBER KIZARTMA,\nKARPUZ\n",
