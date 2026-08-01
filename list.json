@@ -1,112 +1,107 @@
 [
   {
-    "day": "CUMA",
-    "date": "2026-07-31",
-    "content": "MERCİMEK ÇORBA,\nTAVUK KAPAMA,\nYOĞURTLU BİBER KIZARTMA,\nKARPUZ"
-  },
-  {
-    "day": "PERŞEMBE",
-    "date": "2026-07-30",
-    "content": "EZOGELİN ÇORBA,\nKIYMALI BEZELYE,\nBÖREK,\nİRMİK HELVA"
-  },
-  {
-    "day": "ÇARŞAMBA",
-    "date": "2026-07-29",
-    "content": "YOĞURT ÇORBA,\nIZGARA KÖFTE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
-  },
-  {
-    "day": "SALI",
-    "date": "2026-07-28",
-    "content": "TARHANA ÇORBA,\nSEBZELİ TAVUK SARMA,\nBULGUR PİLAVI,\nYOĞURT"
-  },
-  {
     "day": "PAZARTESİ",
-    "date": "2026-07-27",
-    "content": "DÜĞÜN ÇORBA,\nHAVUÇLU PATATESLİ BARBUNYA,\nFIRIN MAKARNA,\nSÜTLAÇ"
+    "date": "2026-08-31",
+    "content": "DÜĞÜN ÇORBA,\nNOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCEVİZLİ UN HELVASI"
   },
   {
     "day": "CUMA",
-    "date": "2026-07-24",
-    "content": "MISIR ÇORBA,\nTAS KEBABI,\nŞEHRİYELİ PİRİNÇ PİLAV,\nYOĞURT"
+    "date": "2026-08-28",
+    "content": "TARHANA ÇORBA,\nTAVUK KAPAMA,\nYOĞURTLU KARIŞIK KIZARTMA,\nKARPUZ"
   },
   {
     "day": "PERŞEMBE",
-    "date": "2026-07-23",
-    "content": "MERCİMEK ÇORBA,\nKIYMALI PİDE,\nSALATA,\nAYRAN"
+    "date": "2026-08-27",
+    "content": "MERCİMEK ÇORBA,\nETLİ YAZ TÜRLÜSÜ,\nPİRİNÇ PİLAVI,\nCACIK"
   },
   {
     "day": "ÇARŞAMBA",
-    "date": "2026-07-22",
+    "date": "2026-08-26",
     "content": "YAYLA ÇORBA,\nTAVUK ŞİŞ - ELMA DİLİM PATATES,\nMAKARNA,\nAYRAN"
   },
   {
     "day": "SALI",
-    "date": "2026-07-21",
-    "content": "DOMATESLİ ŞEHRİYE ÇORBA,\nKADINBUDU KÖFTE,\nBÖREK,\nİRMİK HELVASI"
+    "date": "2026-08-25",
+    "content": "DOMATESLİ ŞEHRİYE ÇORBA,\nKADINBUDU KÖFTE,\nBÖREK,\nYOĞURT"
   },
   {
     "day": "PAZARTESİ",
-    "date": "2026-07-20",
-    "content": "SEBZE ÇORBA,\nNOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+    "date": "2026-08-24",
+    "content": "SEBZE ÇORBA,\nHAVUÇLU PATATESLİ BARBUNYA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nBAKLAVA"
   },
   {
     "day": "CUMA",
-    "date": "2026-07-17",
-    "content": "DOMATES ÇORBA,\nANKARA TAVA,\nMÜCVER,\nAYRAN"
+    "date": "2026-08-21",
+    "content": "DOMATES ÇORBA,\nTAS KEBABI,\nPİRİNÇ PİLAVI,\nAYRAN"
   },
   {
     "day": "PERŞEMBE",
-    "date": "2026-07-16",
-    "content": "MISIR ÇORBA,\nPATLICAN MUSAKKA,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCACIK"
-  },
-  {
-    "day": "SALI",
-    "date": "2026-07-14",
-    "content": "SEBZE ÇORBA,\nHASANPAŞA KÖFTE,\nPİRİNÇ PİLAVI,\nAYRAN"
-  },
-  {
-    "day": "PAZARTESİ",
-    "date": "2026-07-13",
-    "content": "TAVUK SUYU ÇORBA,\nKURU FASULYE,\nPİRİNÇ PİLAVI,\nKADAYIF"
-  },
-  {
-    "day": "CUMA",
-    "date": "2026-07-10",
-    "content": "YOĞURT ÇORBA,\nET KAVURMA,\nPİRİNÇ PİLAVI,\nŞEKERPARE"
-  },
-  {
-    "day": "PERŞEMBE",
-    "date": "2026-07-09",
-    "content": "DOMATES ÇORBA,\nKIYMALI BİBER DOLMA,\nBÖREK,\nCACIK"
+    "date": "2026-08-20",
+    "content": "MERCİMEK ÇORBA,\nKIYMALI BEZELYE,\nERİŞTE,\nSÜTLAÇ"
   },
   {
     "day": "ÇARŞAMBA",
-    "date": "2026-07-08",
-    "content": "MERCİMEK ÇORBA,\nTAVUK ARNAVUT CİĞERİ,\nERİŞTE,\nYOĞURT"
+    "date": "2026-08-19",
+    "content": "EZOGELİN ÇORBA,\nTAVUK ŞİŞ-ELMA DİLİM PATATES,\nMAKARNA,\nAYRAN"
   },
   {
     "day": "SALI",
-    "date": "2026-07-07",
-    "content": "TARHANA ÇORBA,\nIZGARA KÖFTE,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
+    "date": "2026-08-18",
+    "content": "SEBZE ÇORBA,\nIZGARA KÖFTE-ELMA DİLİM PATATES,\nPİRİNÇ PİLAVI,\nYOĞURT"
   },
   {
     "day": "PAZARTESİ",
-    "date": "2026-07-06",
-    "content": "TAVUK SUYU ÇORBA,\nYEŞİL MERCİMEK,\nFIRIN MAKARNA,\nSÜTLAÇ"
+    "date": "2026-08-17",
+    "content": "TAVUK SUYU ÇORBA,\nYEŞİL MERCİMEK,\nFIRIN MAKARNA,\nKEMALPAŞA"
   },
   {
     "day": "CUMA",
-    "date": "2026-07-03",
-    "content": "MANTAR ÇORBA,\nORMAN KEBABI,\nERİŞTE,\nAŞURE"
+    "date": "2026-08-14",
+    "content": "YOĞURT ÇORBA,\nKAĞIT KEBABI,\nPİRİNÇ PİLAVI,\nKAVUN"
   },
   {
     "day": "PERŞEMBE",
-    "date": "2026-07-02",
+    "date": "2026-08-13",
+    "content": "DOMATES ÇORBA,\nPATATES OTURTMA,\nBÖREK,\nSÜTLAÇ"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-08-12",
+    "content": "MERCİMEK ÇORBA,\nÇITIR TAVUK-ELMA DİLİM PATATES,\nERİŞTE,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-08-11",
+    "content": "TARHANA ÇORBA,\nİZMİR KÖFTE,\nFIRIN MAKARNA,\nYOĞURT"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-08-10",
+    "content": "DÜĞÜN  ÇORBA,\nKURU FASULYE,\nPİRİNÇ PİLAVI,\nKADAYIF"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-08-07",
+    "content": "MANTAR ÇORBA,\nORMAN KEBABI,\nERİŞTE,\nİRMİK HELVA"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-08-06",
     "content": "ŞEHRİYE ÇORBA,\nKARNIYARIK,\nPİRİNÇ PİLAVI,\nCACIK"
   },
   {
     "day": "ÇARŞAMBA",
-    "date": "2026-07-01",
+    "date": "2026-08-05",
     "content": "MERCİMEK ÇORBA,\nEKŞİLİ KÖFTE,\nBÖREK,\nREVANİ"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-08-04",
+    "content": "MERCİMEK ÇORBA,\nTAVUK ARNAVUT CİĞERİ,\nERİŞTE,\nYOĞURT"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-08-03",
+    "content": "SEBZE ÇORBA,\nNOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nAYRAN"
   }
 ]
