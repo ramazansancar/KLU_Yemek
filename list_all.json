@@ -1,5 +1,50 @@
 [
   {
+    "day": "CUMA",
+    "date": "2026-09-11",
+    "content": "EZOGELİN ÇORBA,\nET SOTE,\nPİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-09-10",
+    "content": "TAVUK SUYU ÇORBA,\nBİBER DOLMA,\nYOĞURTLU KARIŞIK KIZARTMA,\nKARPUZ"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-09-09",
+    "content": "MERCİMEK ÇORBA,\nTAVUK ŞİŞ ELMA DİLİM PATATES,\nERİŞTE,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-09-08",
+    "content": "TARHANA ÇORBA,\nIZGARA KÖFTE ELMA DİLİM PATATES,\nSOSLU MAKARNA,\nSÜTLAÇ"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-09-07",
+    "content": "DÜĞÜN  ÇORBA,\nKURU FASULYE,\nPİRİNÇ PİLAVI,\nKADAYIF"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-09-04",
+    "content": "SEBZE ÇORBA,\nANKARA TAVA,\nYOĞURTLU BİBER KIZARTMA,\nİRMİK HELVA"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-09-03",
+    "content": "EZOGELİN ÇORBA,\nKARNIYARIK,\nNOHUTLU PİRİNÇ PİLAVI,\nCACIK"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-09-02",
+    "content": "MERCİMEK ÇORBA,\nKIYMALI PİDE,\nSALATA,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-09-01",
+    "content": "DOMATES ÇORBA,\nTAVUK ARNAVUT CİĞERİ,\nERİŞTE,\nYOĞURT"
+  },
+  {
     "day": "PAZARTESİ",
     "date": "2026-08-31",
     "content": "DÜĞÜN ÇORBA,\nNOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCEVİZLİ UN HELVASI"

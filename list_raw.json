@@ -1,5 +1,77 @@
 [
   {
+    "id": "4323",
+    "title": "CUMA",
+    "aciklama": "EZOGELİN ÇORBA,\nET SOTE,\nPİRİNÇ PİLAVI,\nYOĞURT\n",
+    "start": "2026-09-11 00:00:00",
+    "end": "2026-09-11 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4322",
+    "title": "PERŞEMBE",
+    "aciklama": "TAVUK SUYU ÇORBA,\nBİBER DOLMA,\nYOĞURTLU KARIŞIK KIZARTMA,\nKARPUZ\n",
+    "start": "2026-09-10 00:00:00",
+    "end": "2026-09-10 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4321",
+    "title": "ÇARŞAMBA",
+    "aciklama": "MERCİMEK ÇORBA,\nTAVUK ŞİŞ ELMA DİLİM PATATES,\nERİŞTE,\nAYRAN\n",
+    "start": "2026-09-09 00:00:00",
+    "end": "2026-09-09 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4320",
+    "title": "SALI",
+    "aciklama": "TARHANA ÇORBA,\nIZGARA KÖFTE ELMA DİLİM PATATES,\nSOSLU MAKARNA,\nSÜTLAÇ\n",
+    "start": "2026-09-08 00:00:00",
+    "end": "2026-09-08 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4319",
+    "title": "PAZARTESİ",
+    "aciklama": "DÜĞÜN  ÇORBA,\nKURU FASULYE,\nPİRİNÇ PİLAVI,\nKADAYIF\n",
+    "start": "2026-09-07 00:00:00",
+    "end": "2026-09-07 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4318",
+    "title": "CUMA",
+    "aciklama": "SEBZE ÇORBA,\nANKARA TAVA,\nYOĞURTLU BİBER KIZARTMA,\nİRMİK HELVA\n",
+    "start": "2026-09-04 00:00:00",
+    "end": "2026-09-04 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4317",
+    "title": "PERŞEMBE",
+    "aciklama": "EZOGELİN ÇORBA,\nKARNIYARIK,\nNOHUTLU PİRİNÇ PİLAVI,\nCACIK\n",
+    "start": "2026-09-03 00:00:00",
+    "end": "2026-09-03 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4316",
+    "title": "ÇARŞAMBA",
+    "aciklama": "MERCİMEK ÇORBA,\nKIYMALI PİDE,\nSALATA,\nAYRAN\n",
+    "start": "2026-09-02 00:00:00",
+    "end": "2026-09-02 00:00:00",
+    "allDay": "1"
+  },
+  {
+    "id": "4315",
+    "title": "SALI",
+    "aciklama": "DOMATES ÇORBA,\nTAVUK ARNAVUT CİĞERİ,\nERİŞTE,\nYOĞURT",
+    "start": "2026-09-01 00:00:00",
+    "end": "2026-09-01 00:00:00",
+    "allDay": "1"
+  },
+  {
     "id": "4313",
     "title": "PAZARTESİ",
     "aciklama": "DÜĞÜN ÇORBA,\nNOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nCEVİZLİ UN HELVASI\n",
