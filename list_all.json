@@ -1,5 +1,70 @@
 [
   {
+    "day": "ÇARŞAMBA",
+    "date": "2026-09-30",
+    "content": "YAYLA ÇORBA,\nÇITIR TAVUK ELMA DİLİM PATATES,\nPİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-09-29",
+    "content": "MERCİMEK ÇORBA,\nIZGARA KÖFTE ELMA DİLİM PATATES,\nMAKARNA,\nYOĞURT"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-09-28",
+    "content": "DÜĞÜN ÇORBA,\nNOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nİRMİK HELVA"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-09-25",
+    "content": "TARHANA ÇORBA,\nTAS KEBABI,\nBULGUR PİLAVI,\nMEYVE"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-09-24",
+    "content": "MERCİMEK ÇORBA,\nPATLICAN MUSAKKA,\nPİRİNÇ PİLAVI,\nCACIK"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-09-23",
+    "content": "YAYLA ÇORBA,\nTAVUK KAVURMA,\nMAKARNA,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-09-22",
+    "content": "DOMATESLİ ŞEHRİYE ÇORBA,\nHAMBURGER KÖFTE,\nPATATES KIZARTMASI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-09-21",
+    "content": "TAVUK SUYU ÇORBA,\nHAVUÇLU PATATESLİ BARBUNYA,\nFIRIN MAKARNA,\nŞEKERPARE"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-09-18",
+    "content": "ŞEHRİYE ÇORBA,\nORMAN KEBABI,\nPİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-09-17",
+    "content": "MERCİMEK ÇORBA,\nKIYMALI BEZELYE,\nBÖREK,\nPUDİNG"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-09-16",
+    "content": "EZOGLELİN ÇORBA,\nTAVUK DÖNER SALATA,\nPİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-09-15",
+    "content": "SEBZE ÇORBA,\nİZMİR KÖFTE,\nBULGUR PİLAV,\nYOĞURT"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-09-14",
+    "content": "TAVUK SUYU ÇORBA,\nŞİNİTZEL SALATA,\n MAKARNA,\nAYRAN"
+  },
+  {
     "day": "CUMA",
     "date": "2026-09-11",
     "content": "EZOGELİN ÇORBA,\nET SOTE,\nPİRİNÇ PİLAVI,\nYOĞURT"
