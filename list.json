@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-10-01",
+    "content": "EZOGELİN ÇORBA,\nTÜRLÜ,\nFIRIN MAKARNA,\nSÜTLÜ TATLI"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-10-30",
+    "content": "EZOGELİN ÇORBA,\nŞİNİTZEL SALATA,\nSOSLU MAKARNA,\nAYRAN"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-10-27",
+    "content": "MERCİMEK ÇORBA,\nİZMİR KÖFTE,\nSOSLU MAKARNA,\nMEYVE"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-10-26",
+    "content": "DÜĞÜN ÇORBA,\nNOHUT,\nŞEHRİYELİ PİRİNÇ PİLAVI,\nİRMİK HELVA"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-10-23",
+    "content": "TARHANA ÇORBA,\nANKARA TAVA,\nYOĞURTLU KARIŞIK KIZARTMA,\nMEYVE"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-10-22",
+    "content": "MERCİMEK ÇORBA,\nETLİ YAZ TÜRLÜSÜ,\nBULGUR PİLAVI,\nSÜTLÜ TATLI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-10-21",
+    "content": "EZOGELİN ÇORBA,\nFIRINDA BEŞAMEL SOSLU SEBZELİ TAVUK,\nPİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-10-20",
+    "content": "DOMATESLİ ŞEHRİYE ÇORBA,\nHAMBURGER,\nPATATES KIZARTMASI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-10-19",
+    "content": "YAYLA ÇORBA,\nTAVUK DÖNER SALATA,\n MAKARNA,\nREVANİ"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-10-16",
+    "content": "YOĞURT ÇORBA,\nORMAN KEBABI,\nBÖREK,\nAYRAN"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-10-15",
+    "content": "MERCİMEK ÇORBA,\nKIYMALI BEZELYE,\nPİRİNÇ PİLAVI,\nSÜTLÜ TATLI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-10-14",
+    "content": "EZOGELİN ÇORBA,\nFIRIN TAVUK ELMA DİLİM PATATES,\nERİŞTE,\nYOĞURT"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-10-13",
+    "content": "SEBZE ÇORBA,\nHASANPAŞA KÖFTE,\nMISIRLI PİRİNÇ PİLAVI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-10-12",
+    "content": "DÜĞÜN ÇORBA,\nTAVUK ARNAVUT CİĞERİ,\nPİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-10-09",
+    "content": "DOMATESLİ ŞEHRİYE ÇORBA,\nBALIK SALATA,\nFASULYE PİYAZI,\nTAHİN HELVA"
+  },
+  {
+    "day": "PERŞEMBE",
+    "date": "2026-10-08",
+    "content": "MERCİMEK ÇORBA,\nKIYMALI ISPANAK GRATEN,\nBÖREK,\nSÜTLÜ TATLI"
+  },
+  {
+    "day": "ÇARŞAMBA",
+    "date": "2026-10-07",
+    "content": "YAYLA ÇORBA,\nKÖRİ SOSLU TAVUK,\nMAKARNA,\nMEYVE"
+  },
+  {
+    "day": "SALI",
+    "date": "2026-10-06",
+    "content": "TARHANA ÇORBA,\nHAMBURGER,\nPATATES KIZARTMASI,\nAYRAN"
+  },
+  {
+    "day": "PAZARTESİ",
+    "date": "2026-10-05",
+    "content": "DÜĞÜN  ÇORBA,\nTAVUK ARNAVUT CİĞERİ,\nPİRİNÇ PİLAVI,\nYOĞURT"
+  },
+  {
+    "day": "CUMA",
+    "date": "2026-10-02",
+    "content": "MANTAR ÇORBA,\nTAS KEBABI,\nPİRİNÇ PİLAVI,\nBİSKÜVİLİ PASTA"
+  }
+]
